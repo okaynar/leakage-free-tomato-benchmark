@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Note: the MIT licence covers the code in this repository (code/, notebooks/, figures_code/).
-The split files and result tables are derived from the Tomato Leaf Disease Classification Dataset
-(Malik, Ali & Ali, 2026; doi:10.17632/3mbnb82mxd.2) and remain under CC BY 4.0.
-MambaVision-T code/weights are under the NVIDIA Source Code License-NC.
