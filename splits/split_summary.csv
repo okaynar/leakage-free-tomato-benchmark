@@ -1,0 +1,7 @@
+class,test,trainval,fold0,fold1,fold2,fold3,fold4,total,groups
+Early blight,21,84,17,16,17,17,17,105,100
+Late blight,20,81,16,17,16,16,16,101,97
+Septoria leaf spot,34,136,27,28,27,27,27,170,152
+Leaf mold,37,146,29,29,30,29,29,183,161
+Yellow leaf curl virus,15,62,13,12,12,12,13,77,72
+Healthy,23,89,18,18,17,18,18,112,100

@@ -1,0 +1,83 @@
+relpath,class,md5,reason
+Dataset (raw)/Tomato_Early_blight_leaf/dscn3175.jpg,Early blight,e06ec54e5983c45e532511695f00cf49,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/EB_(973).jpg,Early blight,a035219b31920b7eb720785b74822fa1,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/EB_(991).jpg,Early blight,30dc3b4dd8f81f7f55ca53e18bd337a4,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155133.jpg,Early blight,393b5ad6ce98464044cd534eceef0d21,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155435.jpg,Early blight,66f56bc83bc6ca3da2bb36e113e96d60,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155805.jpg,Early blight,6bad7e584a73c24f333410a90a796b00,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161202.jpg,Early blight,51873a784a0f7632b7591c7161c135e2,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161544.jpg,Early blight,5e2f8c8dea42497be31c387563a36c01,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_2436w.jpg,Early blight,05017aaddd7acc3be37b00450f31815b,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/p1020083cs.jpg,Early blight,448c75fdfeb11f782f1b1d2dac33fd20,md5_duplicate
+Dataset (raw)/Tomato_Early_blight_leaf/p1020084s.jpg,Early blight,a035219b31920b7eb720785b74822fa1,label_conflict+md5_duplicate
+Dataset (raw)/Tomato_Early_blight_leaf/Tomato-diseases-prevention-treatment--Early-blight-_jpg.rf.83f31e79700bb2de422ce9eafe28d2d0.jpg,Early blight,2d1b528cd18357a66c7002af2794db0c,label_conflict
+Dataset (raw)/Tomato_Early_blight_leaf/tomato-early-blight-1.jpg,Early blight,7e6df63bd3b8540b442e6500750141c8,md5_duplicate
+Dataset (raw)/Tomato_Early_blight_leaf/tomato_early-blight_03_zoom.jpg,Early blight,b6b3be2de3216e0fdb9e958d404b23ed,md5_duplicate
+Dataset (raw)/Tomato_Healthy_leaf/HL_(103).jpg,Healthy,0a64d8263248f0a79e3d0005ecbb5403,md5_duplicate
+Dataset (raw)/Tomato_Healthy_leaf/HL_(128).jpg,Healthy,45641b7cdf8d40a63efc9e98c6cba216,md5_duplicate
+Dataset (raw)/Tomato_Healthy_leaf/HL_(149).jpg,Healthy,26c86791d075bc758d78c683186dff54,md5_duplicate
+Dataset (raw)/Tomato_Healthy_leaf/HL_(71).jpg,Healthy,2ca4d1d49de8b954736b49fdb4814965,md5_duplicate
+Dataset (raw)/Tomato_Healthy_leaf/HL_(78).jpg,Healthy,4e8a1d76b1828382270fb3fee1d6e97a,md5_duplicate
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161616.jpg,Healthy,9a5a953733c48182636d9a2de7852f01,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161618.jpg,Healthy,bd148e6defe548fb70e682c4666abeb6,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161619.jpg,Healthy,78b9e8f1d15b9dd3336642843625f288,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161624.jpg,Healthy,eb5f2c5439651c385838b786f9140740,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161625.jpg,Healthy,1ab1f665715c1f85a67f3b75369b71cf,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161629.jpg,Healthy,74547ed30c9689b1bae6095c623b1a43,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161633.jpg,Healthy,02c685c63d7fb2e94f4c9974b15e8179,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161638.jpg,Healthy,4855b7dc7e252a425943e6b5d0ee226c,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161647.jpg,Healthy,57ac72f93448dddc29c41f62edee9702,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161649.jpg,Healthy,a70c4ae2a43a93571f1b42509d2ed6d7,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161657.jpg,Healthy,6241499d8b2b5a3f66747edb09af1ded,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161709.jpg,Healthy,93f14701fa6b8f28f32db9ba9bb1ee3b,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161815.jpg,Healthy,fd677a5d6ffee896ed9c6ca7cb5d4f00,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161817.jpg,Healthy,906bbfccaacddad0ca568146d88789a9,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161819.jpg,Healthy,b4422bdae022956ddcfbc882b49a6efe,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161822.jpg,Healthy,3167d7a8957ce93984c86221e3ef0970,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161826.jpg,Healthy,e531176c8a182eb82716dc136a551e08,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161827.jpg,Healthy,97cf2e26fe4ab8252b8b694797a5570a,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161833.jpg,Healthy,d121ff5b58d49d124cd1e595f548ca9f,label_conflict
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161837.jpg,Healthy,3831588d0c42b2077c54fee2951f5697,label_conflict
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_155132.jpg,Late blight,cf821d9a2d24bd94b6fb8293a13bf115,label_conflict
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_155805.jpg,Late blight,6bad7e584a73c24f333410a90a796b00,label_conflict
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_161202.jpg,Late blight,51873a784a0f7632b7591c7161c135e2,label_conflict
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_161541.jpg,Late blight,53d79fe2acdd0cb32f793198662e8182,label_conflict
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (221).jpg,Late blight,1ba2d3b746ca5835cfddf5bd8c38f139,md5_duplicate
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (353).JPG,Late blight,d1e82773cf7013083bedb2b008c5acbc,md5_duplicate
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (6).jpg,Late blight,7bd490e5fafdeaab75322b68a4e34d17,md5_duplicate
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (9).jpg,Late blight,4c49ff2d32ce685f8f489e5b7f572d02,md5_duplicate
+Dataset (raw)/Tomato_leaf_late_blight/p1020076cs.jpg,Late blight,25d361705e1d82f2ed3561e3049128c2,md5_duplicate
+Dataset (raw)/Tomato_leaf_late_blight/photo-9.jpg,Late blight,ab93d2feda8045c160f22e3bc0d69df4,md5_duplicate
+Dataset (raw)/Tomato_leaf_late_blight/TomatoBlight.JPG.jpg,Late blight,9eac06eefb2710201687e2bf6027d281,md5_duplicate
+Dataset (raw)/Tomato_leaf_late_blight/tomato_late-blight_04_zoom.jpg,Late blight,cc96a78feec7941c605421de69b39f49,label_conflict
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_161543.jpg,Yellow leaf curl virus,6549dc28ad344304179aa369d98e34cc,label_conflict
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_161547.jpg,Yellow leaf curl virus,8d9e789985bec65b9b3bd4029fd466c2,label_conflict
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_161626.jpg,Yellow leaf curl virus,ad1f6d06ebd6f72afd5946eecf28f09a,label_conflict
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0085.jpg,Leaf mold,d9c1d3dab3e3d08c288f8b7ae37ef31f,label_conflict
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155427.jpg,Leaf mold,192805a5de83543dbc4c957abee42507,label_conflict
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155435.jpg,Leaf mold,66f56bc83bc6ca3da2bb36e113e96d60,label_conflict
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(16).jpg,Septoria leaf spot,f71e367a174d9f848949c1546c11d0f2,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(22).jpg,Septoria leaf spot,e06ec54e5983c45e532511695f00cf49,label_conflict
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(23).jpg,Septoria leaf spot,f77e54c2525119d7c950131273970de3,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(969).jpg,Septoria leaf spot,05017aaddd7acc3be37b00450f31815b,label_conflict
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(988).jpg,Septoria leaf spot,4f9ce949b194c882e314f99650f154ed,label_conflict
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240728-WA0069.jpg,Septoria leaf spot,f392c5b0df8afec5f67bcbe148e2e30e,label_conflict
+Dataset (raw)/Tomato_Septoria_leaf_spot/Original_e-blight.JPG.rend.hgtvcom.966.725.jpeg.jpg,Septoria leaf spot,b82a0af16210697f06925663b9acd074,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (37).jpg,Septoria leaf spot,7a070673f7dbc9b4439934665fec1bb0,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (44).jpg,Septoria leaf spot,1ea7645d22d1260309592c54b282856e,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (46).jpg,Septoria leaf spot,7c3a3edc85edfcbc4af994b6ae82ee89,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (47).jpg,Septoria leaf spot,f88d519340ff4d91c87112975de85ef4,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (51).jpg,Septoria leaf spot,c6119efc586544419b3422fd667adb77,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (52).jpg,Septoria leaf spot,3e49f171f970440e7d9fee0cde7406be,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (53).jpg,Septoria leaf spot,df93f720f55c93caf7dfe388e8b85e49,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (56).jpg,Septoria leaf spot,9b76d6faba3689531972394049afec05,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (57).jpg,Septoria leaf spot,3311a7162f523ef7dc4f5b02033d6ecf,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (8).jpg,Septoria leaf spot,bb3cf358590742f0a063e77d1df92c47,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (962).jpg,Septoria leaf spot,e19cec566889c8eb00d7270630d4d43a,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato-blight-large.jpg,Septoria leaf spot,af17d66a9b311f359a7a1d79ba2b9731,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato-early-blight_1_1-12wmver.jpg,Septoria leaf spot,30dc3b4dd8f81f7f55ca53e18bd337a4,label_conflict
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-plant-is-infected-with-septoria-leaf-spot-1.jpg,Septoria leaf spot,c4666f7940e8db54f3958830f3846c0a,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-septoria-leaf-spot-600.jpg,Septoria leaf spot,d24e56a397c7b7fb6d743767ba173f3a,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomatoseptorialeafspotjpg-788d20798a3c74e7.jpg,Septoria leaf spot,963e30cf32e79ac3b0e84bb0bad86e51,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato_D2b-Early-blight---RPitblado_zoom.jpg,Septoria leaf spot,03c6180ad14e4c1107471567aa0d7c8e,md5_duplicate
+Dataset (raw)/Tomato_Septoria_leaf_spot/x3-most-common-types-tomato-blight.jpg.pagespeed.ic.5cLJi6TXEi.jpg,Septoria leaf spot,1edd5562f5d85b8b143f2d89b1d5fac2,md5_duplicate

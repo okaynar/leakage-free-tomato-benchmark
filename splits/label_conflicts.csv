@@ -1,0 +1,48 @@
+relpath,class,group
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161618.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161619.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161624.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161625.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161616.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161822.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161819.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161817.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161815.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161709.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161657.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161649.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161647.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161638.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161633.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161629.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161827.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161833.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161837.jpg,Healthy,229
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161826.jpg,Healthy,229
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_161626.jpg,Yellow leaf curl virus,229
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155133.jpg,Early blight,277
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_155132.jpg,Late blight,277
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155805.jpg,Early blight,279
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_155805.jpg,Late blight,279
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_161202.jpg,Late blight,283
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161202.jpg,Early blight,283
+Dataset (raw)/Tomato_Early_blight_leaf/p1020084s.jpg,Early blight,367
+Dataset (raw)/Tomato_leaf_late_blight/tomato_late-blight_04_zoom.jpg,Late blight,367
+Dataset (raw)/Tomato_Early_blight_leaf/EB_(973).jpg,Early blight,367
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161544.jpg,Early blight,418
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_161541.jpg,Late blight,418
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_161547.jpg,Yellow leaf curl virus,418
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_161543.jpg,Yellow leaf curl virus,418
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155435.jpg,Leaf mold,601
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155427.jpg,Leaf mold,601
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155435.jpg,Early blight,601
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(22).jpg,Septoria leaf spot,683
+Dataset (raw)/Tomato_Early_blight_leaf/dscn3175.jpg,Early blight,683
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_2436w.jpg,Early blight,685
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(969).jpg,Septoria leaf spot,685
+Dataset (raw)/Tomato_Early_blight_leaf/Tomato-diseases-prevention-treatment--Early-blight-_jpg.rf.83f31e79700bb2de422ce9eafe28d2d0.jpg,Early blight,689
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(988).jpg,Septoria leaf spot,689
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0085.jpg,Leaf mold,710
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240728-WA0069.jpg,Septoria leaf spot,710
+Dataset (raw)/Tomato_Early_blight_leaf/EB_(991).jpg,Early blight,807
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato-early-blight_1_1-12wmver.jpg,Septoria leaf spot,807

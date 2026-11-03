@@ -1,0 +1,749 @@
+relpath,class,label,group,split,fold,md5,source_type
+Dataset (raw)/Tomato_Early_blight_leaf/100_46341.jpg,Early blight,0,0,test,-1,984aca130d51649c3f06e750e267c29d,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/126689-004-D622CD2F.jpg,Early blight,0,1,trainval,0,9f68685ef8b7fbc12e5e2ca4432f2997,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/1576389-early%20blight%20symptoms.jpg,Early blight,0,2,trainval,4,805a1161a4192104d18df990bf8afd64,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/1723454500663.jpg,Early blight,0,3,trainval,0,c41c66227812d3e360a72b10c0ded334,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454501459.jpg,Early blight,0,4,trainval,4,4ea11dd2a5dc2996600d82cf31176ae5,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454503004.jpg,Early blight,0,5,trainval,2,2afd92f299b1086c69d20993ba1e208e,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454503045.jpg,Early blight,0,6,trainval,2,e1f0938c09d6a6e34bf6095059da1cdc,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454503368.jpg,Early blight,0,7,test,-1,895cf464fa6df76c3d1e7d91c0c3d3d1,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454503528.jpg,Early blight,0,8,trainval,2,7f68da25a494a48589186af1695d8247,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454503933.jpg,Early blight,0,9,test,-1,769a44225bf22b878259779a76d46469,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454504369.jpg,Early blight,0,10,trainval,3,3cbd7784a18824ffea3eb823667aa940,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454506040.jpg,Early blight,0,11,trainval,0,3a273b6c13d984023439d93779604dd2,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454507087.jpg,Early blight,0,12,trainval,3,db95a63a1ffd6c7ee3715a5b443f9040,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454507240.jpg,Early blight,0,13,trainval,2,586dec3da6bc67d8391b0e7a76791b9c,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454507692.jpg,Early blight,0,14,trainval,2,de02549baeb4bdc479ba6a1a7517fae7,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/1723454507847.jpg,Early blight,0,15,trainval,2,172890d98025cc6f2c1f77c22df4b825,epoch_ms_name
+Dataset (raw)/Tomato_Early_blight_leaf/20080526-_DSC4211.jpg,Early blight,0,16,trainval,3,768aad2263555df148bd820be97e1125,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/BCH%20medium%20thumbnail%20for%20upload%20%2836%29.jpg,Early blight,0,17,trainval,4,285045da2a107633776d2f95f86aae39,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/bugs-and-blight-061.jpg,Early blight,0,18,trainval,4,f533ad038bc0a67681d684b367ce2fdf,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Diseased-Tomato-Plant.jpg,Early blight,0,19,trainval,4,eef02b1252b15499dd3a2cf17aacc2c7,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/dscn3168.jpg,Early blight,0,20,trainval,2,fbb8953b80ae398f952eeef93ba07b42,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/early-blight-2x.jpg,Early blight,0,22,trainval,0,c34f9490f9b02b98c52b4aa68ece0a67,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Early-blight-660x440.jpg,Early blight,0,23,trainval,3,60ed86831cb1f351ccb1cc82dadcceec,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/early-blight-in-high-tunnel-tomatoes-19tm74h.jpg,Early blight,0,24,test,-1,63dd54199343dfab41ec19e919b72bea,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Early-blight-of-tomato-980x380.jpg,Early blight,0,25,trainval,0,7fa714dc3753dddaad3e32627a15933b,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/early-blight-tomato-causal-agents-260nw-1746486380.jpg,Early blight,0,26,test,-1,e1249b579ade4bb5c47a7f2990867bc3,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Early-Blight.jpg,Early blight,0,27,trainval,4,36fbacdb3113806ebf543c2b293a40b6,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/early-blight1.jpg,Early blight,0,28,trainval,3,9c22ec322c03cc11de285455f65c2731,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/earlyblight21_.jpg,Early blight,0,29,trainval,0,1396c6fb4b2b58472ad095348c7bede4,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/early_blight1-150x150.jpg,Early blight,0,30,trainval,0,328cd219347e2fef44b8e55d677ed641,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Early_blight_1.jpg_1376579808.jpg,Early blight,0,31,test,-1,f157329c3e4db74f37d1e336021f11c1,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/early_blight_jpg.rf.2681831d98718a2ec71dd0e59e2cdab3.jpg,Early blight,0,32,trainval,2,bac95c82b4e6dd9e834cf53372e7830b,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Early_Blight_of_Tomato1687.jpg,Early blight,0,33,trainval,1,a7714c526d891b3318486bcde1ad9b56,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Early_blight_on_tomato_leaves_(7871930010).jpg,Early blight,0,34,trainval,3,3935879ed436ec5761fe86a943f4af7f,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/ebleafb.jpg,Early blight,0,35,trainval,3,eac496b99c4965b4cb1271c88e3d0796,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/EBTomato.jpg,Early blight,0,113,trainval,4,d527d69b83a030ec964d77008f997348,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/EB_(972).jpg,Early blight,0,105,trainval,4,448c75fdfeb11f782f1b1d2dac33fd20,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/EB_(981).jpg,Early blight,0,115,test,-1,b6b3be2de3216e0fdb9e958d404b23ed,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/EB_(992).jpg,Early blight,0,111,trainval,0,7e6df63bd3b8540b442e6500750141c8,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Gls42.jpg,Early blight,0,42,trainval,2,6a3336c0194319e4c90495c6d5922b4f,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Gls4_change_90.jpg,Early blight,0,43,test,-1,49bb380d379f54c6bd43cb7c9680edae,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Gls64_mirror_vertical.jpg,Early blight,0,44,trainval,0,123517929f328392ad63d827d915f14d,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Gls65_change_270.jpg,Early blight,0,45,trainval,4,25e02d2a63f7d6ffe6a428ef382fecb0,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/gray-leaf-spot-300x225.jpg,Early blight,0,46,trainval,4,8b3e41b1139f14c24ce5cdc566130277,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/gray-mold-on-tomato-leaf.jpg,Early blight,0,47,trainval,1,7f5f40e761797a0453572b470f5e27dd,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/halleck_tomato_earlyblight__inline-half.jpg,Early blight,0,48,trainval,1,2d9a4997bf687b408d7e4efc8055773d,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/images.jpg,Early blight,0,111,trainval,0,c36e910bb62c98d295ad8d0f5830db73,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240729-WA0076.jpg,Early blight,0,50,trainval,4,4019b117f57cbf8d29cd24e2f59b468d,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0139.jpg,Early blight,0,51,trainval,2,35ada24ae3de0abd5eede8c17fc6f866,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0145.jpg,Early blight,0,52,trainval,1,23a46be74d449a21c0647c6a6289b7c1,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0153.jpg,Early blight,0,53,test,-1,adab517558437679a2aa1aa671e8af24,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0163.jpg,Early blight,0,54,trainval,0,ffe71909af503f71baf169713b7e52b0,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0261.jpg,Early blight,0,55,test,-1,31e0a989105302d08d84c98d5a35b1a4,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0359.jpg,Early blight,0,56,trainval,1,e97438f47a67cc7dfa3ed198db95cac5,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0407.jpg,Early blight,0,57,trainval,0,debce68a3ad8340dc4242a2f5642384b,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0429.jpg,Early blight,0,58,trainval,1,ed68ad24133dd854721ebf23c5fed4e3,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0435.jpg,Early blight,0,59,test,-1,d489188076e2e881519b90a47d7effa5,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0445.jpg,Early blight,0,60,trainval,4,186cfd252fb2314c78aa56672afab8b0,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG-20240812-WA0453.jpg,Early blight,0,61,trainval,2,1c54dce00a347d17a7d3014fe4ada289,whatsapp
+Dataset (raw)/Tomato_Early_blight_leaf/IMG20240812111212.jpg,Early blight,0,62,trainval,3,1491a3d5e4e449b82663b1f1741eb1b2,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/IMG20240812111749.jpg,Early blight,0,63,trainval,3,2c10eb859b4273fd9d4ca75e6f36ef02,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/IMG20240812112050.jpg,Early blight,0,64,test,-1,3fd7c205c9ebc7e87868d6aeeca070e3,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_153119.jpg,Early blight,0,65,trainval,3,a929655f139eda10c82b3e7edc3cc23b,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_153239.jpg,Early blight,0,67,trainval,3,97fb734b63025f5900e696f84b8ce8bd,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_153246.jpg,Early blight,0,67,trainval,3,5c01b2f27e3b8d030bb53b724dcd45a0,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_153620.jpg,Early blight,0,68,trainval,1,3a05356906d5e9ba9b2b10004a993fec,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_154008.jpg,Early blight,0,69,trainval,0,997aed7a843da096d392af4755caa215,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_154702.jpg,Early blight,0,70,trainval,4,ed8a0e722cfefef79bc39a3ccfd6b835,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_154710.jpg,Early blight,0,71,trainval,0,094bb9788f856e90d4c44e237d7418f9,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155059.jpg,Early blight,0,72,test,-1,f606096376a68f2898b6e06c8e497e12,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155138.jpg,Early blight,0,74,test,-1,5f395bac7101984de852c4be752e1788,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155144.jpg,Early blight,0,75,test,-1,6169d26accded8c5ec6b1537a70c2354,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155205.jpg,Early blight,0,76,trainval,2,ec7986845b7273aa8af49992101e4e43,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155246.jpg,Early blight,0,77,test,-1,a9f9e3cae8bfa6cf24789c614223a18b,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155250.jpg,Early blight,0,78,trainval,1,1226285211a1f35ebde9f8782699200f,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155305.jpg,Early blight,0,79,trainval,2,fedf1f045232c20085fca2fcbce3fc94,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155511.jpg,Early blight,0,81,trainval,2,5488d6a9f6104013ffd6b00b99ad742c,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155609.jpg,Early blight,0,82,trainval,1,a6c209e3d23ae10599c39d9d5684de47,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155634.jpg,Early blight,0,83,trainval,1,835720ce273d3bfb25d25094381dbcc3,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155726.jpg,Early blight,0,84,trainval,3,4eb6e70697282c51d0dfca42c5f6fba9,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_155827.jpg,Early blight,0,86,trainval,4,ea804ba0c76785a18ed02a0dea20f96c,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_160035.jpg,Early blight,0,87,trainval,0,ae1e60a02bcb0e67078bd60645c2d0a3,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_160221.jpg,Early blight,0,88,trainval,2,2615771540f7d9ef41eb6c659b972276,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_160234.jpg,Early blight,0,89,trainval,1,a4340da0094ed1bc0987dc8cfeacc251,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_160523.jpg,Early blight,0,90,test,-1,bae2ffed6683c13afa4c833ef7e0e05c,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_160922.jpg,Early blight,0,92,trainval,1,5f95755ab7ab17e89e75b0c71a7c560d,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_160925.jpg,Early blight,0,92,trainval,1,fe18eb02370f82c87253c109aed8cea4,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_160940.jpg,Early blight,0,93,trainval,3,a17731f24d796200f78fec30c9bdf090,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161007.jpg,Early blight,0,94,trainval,1,e5fb1e1f6261e3104de09522cdda153d,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161020.jpg,Early blight,0,95,trainval,3,aafd90841b2f67e178f82bc8f584ce8d,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161104.jpg,Early blight,0,117,test,-1,c83014b09d61f0fd5e242c95f6e2eea4,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161134.jpg,Early blight,0,97,trainval,3,934292646434c301453fe033a851a842,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161144.jpg,Early blight,0,98,trainval,4,74c80b7a3bbc9ae250703b69a644a01f,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161230.jpg,Early blight,0,100,trainval,0,776e07ecca7a23f7979226b822e0b486,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_20251102_161239.jpg,Early blight,0,101,trainval,3,70fdc641d4530a16704f3a38ab64685e,camera_2025-11-02
+Dataset (raw)/Tomato_Early_blight_leaf/IMG_2254.JPG.jpg,Early blight,0,103,trainval,2,87211790c33baed33429c58e65865e26,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/spotonleaf1.jpg,Early blight,0,107,trainval,1,ed244bc3159623247c83449910325cf8,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Tomato%20early%20blight%20target%20like%20leaf%20spot.jpg,Early blight,0,108,trainval,0,d0635abc6353ff74a2426702cd30909e,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/tomato-blight-early-leaf.jpg,Early blight,0,109,test,-1,9866286dd89d6624dcbb71aaa1888b29,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/Tomato-Early-Blight.jpg,Early blight,0,112,trainval,4,2b5935ae5741589ff2ffcb05d23dd802,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/tomatoblight.jpg,Early blight,0,113,trainval,4,9299b55ac1bc6c646b15e29673038cd7,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/tomatoearlyblight.jpg,Early blight,0,114,trainval,2,c37d8c71908fc74b02677427595d3ddb,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/_storage_emulated_0_DCIM_Camera_IMG_20251102_155855.jpg,Early blight,0,116,trainval,1,803d44fb53371041351d89237b8ca952,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/_storage_emulated_0_DCIM_Camera_IMG_20251102_161045.jpg,Early blight,0,117,test,-1,753cafdf3223e0f19b5c74eec60b357c,web/other
+Dataset (raw)/Tomato_Early_blight_leaf/_storage_emulated_0_DCIM_Camera_IMG_20251102_161217.jpg,Early blight,0,118,test,-1,2b6142ac856b4f462e9245b666d8a529,web/other
+Dataset (raw)/Tomato_Healthy_leaf/003.JPG.jpg,Healthy,5,119,trainval,3,c43ee7aec83bf4b8e057029dfedfc22b,web/other
+Dataset (raw)/Tomato_Healthy_leaf/009-e1373768789869.jpg,Healthy,5,120,trainval,2,20db7b8b3cbd31e2921a3aba71c99a42,web/other
+Dataset (raw)/Tomato_Healthy_leaf/100_8283.jpg,Healthy,5,121,test,-1,a51fbc618fc5fb00259f54c49e60da95,web/other
+Dataset (raw)/Tomato_Healthy_leaf/2013-08-20-03.jpg,Healthy,5,122,trainval,3,7267dc21e8b9038a5464831f120bbc2e,web/other
+Dataset (raw)/Tomato_Healthy_leaf/20130609_151253_zpsc7d93f62.jpg,Healthy,5,123,trainval,4,a3812c3b450d5df53d52190f2857efea,web/other
+Dataset (raw)/Tomato_Healthy_leaf/20140818-tomato-sauce-vicky-wasik-1.jpg,Healthy,5,124,test,-1,6dafe6390ecc61ba712492265ceed870,web/other
+Dataset (raw)/Tomato_Healthy_leaf/2015-09-17-01.jpg,Healthy,5,125,trainval,0,80343057dd42c6a40a297c54e0fcc077,web/other
+Dataset (raw)/Tomato_Healthy_leaf/69_27_632_1200.jpg,Healthy,5,126,trainval,3,39ae5dc84219302864a6584ec921e97c,web/other
+Dataset (raw)/Tomato_Healthy_leaf/Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg,Healthy,5,127,trainval,0,59c8df696985731c6a857e7065f33bcf,web/other
+Dataset (raw)/Tomato_Healthy_leaf/Brown-Spots-on-Tomato-Leaves.jpg,Healthy,5,128,trainval,0,2ef2ffc62b2e7fe2bf9ae54972ce34cd,web/other
+Dataset (raw)/Tomato_Healthy_leaf/curling-issues.jpg,Healthy,5,129,trainval,4,26680066f28674f7776850e01b87f32e,web/other
+Dataset (raw)/Tomato_Healthy_leaf/Fig-2.jpg,Healthy,5,130,trainval,1,03fb4836a4dd9661fe7090bb23b70905,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h10.jpg,Healthy,5,131,trainval,1,efab306259ece0d380f3dfe80ef692f9,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h101.jpg,Healthy,5,132,test,-1,b2310631d9512caee0f0201064c8c0ed,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h102_change_270.jpg,Healthy,5,133,trainval,2,fd3d14811001e948f407a3a0206c8da9,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h103.jpg,Healthy,5,134,test,-1,4dc616bb55ccb090518130a70b1e1f6d,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h104_change_270.jpg,Healthy,5,175,trainval,4,f72a182888dc7695ea64214bb7a9cec5,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h14.jpg,Healthy,5,136,trainval,4,7e1e0e4ab133694185690e514891f694,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h1_change_90.jpg,Healthy,5,137,trainval,0,5e010e92829bff6fb891f993406236e1,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h2.jpg,Healthy,5,174,test,-1,26c86791d075bc758d78c683186dff54,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h25.jpg,Healthy,5,139,trainval,3,6de3f557d233432302104cbbfeda0c33,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h26.jpg,Healthy,5,140,trainval,1,93648b24e9075b306828701cda667836,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h39.jpg,Healthy,5,171,trainval,2,45641b7cdf8d40a63efc9e98c6cba216,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h4.jpg,Healthy,5,142,trainval,2,c45ee13be09035ab54db74189d30b747,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h44.jpg,Healthy,5,143,trainval,4,07d07b512d0fe912c1ef2f10fc0735c6,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h45.jpg,Healthy,5,144,trainval,4,f4605923733b1e63c30c3398a292ad1e,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h49.jpg,Healthy,5,170,trainval,1,879f0992c935692cac6b21ba2cb2c8d3,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h6.jpg,Healthy,5,146,trainval,4,6980857cc33f0cf8c680d70d1139c5bb,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h61.jpg,Healthy,5,168,trainval,0,0a64d8263248f0a79e3d0005ecbb5403,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h64.jpg,Healthy,5,186,trainval,2,91d5666939db64b6ffd3f77e3b1586e8,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h69.jpg,Healthy,5,149,test,-1,54dd4d07e960c21363a4e238493c268e,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h7.jpg,Healthy,5,150,trainval,0,c8e75d57bb291ca974436f94794df5b3,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h71.jpg,Healthy,5,151,trainval,4,fc9507840b96f54f3dfa3ad74dcd742c,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h73_change_90.jpg,Healthy,5,152,test,-1,c01b63bd28cad0a87d545ab116a2a2c0,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h75_mirror_vertical.jpg,Healthy,5,153,trainval,3,efff5e467171b79f1a75f5883c2ad0e7,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h76.jpg,Healthy,5,154,trainval,2,46fc9b9f00916ecbc5c6084411cc485b,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h77.jpg,Healthy,5,155,trainval,4,a51c8dc582866cac19e0d8135daf9d30,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h79_change_270.jpg,Healthy,5,159,trainval,0,2fa372f94b73ab64dcdd3838bdca2b26,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h8.jpg,Healthy,5,157,trainval,2,5a936b661e4ec4f81c1b20b11df316f1,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h80.jpg,Healthy,5,158,test,-1,66277e40b329a7f2f7180e32a615e335,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h81.jpg,Healthy,5,159,trainval,0,293643e07711b000199e59d880f94ad0,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h84.jpg,Healthy,5,184,test,-1,4e8a1d76b1828382270fb3fee1d6e97a,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h90.jpg,Healthy,5,181,trainval,1,2ca4d1d49de8b954736b49fdb4814965,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h95_mirror.jpg,Healthy,5,162,test,-1,14c1d1264898b21aafa6f6af3a33944d,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h96.jpg,Healthy,5,163,test,-1,f69eb55e76696af3762d0760d2ab4f75,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h98_change_180.jpg,Healthy,5,164,trainval,4,1d32e074ad0d20173108ba64c5c42934,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h99.jpg,Healthy,5,165,trainval,0,ca04ba307918e38fa14e85d18205fff2,web/other
+Dataset (raw)/Tomato_Healthy_leaf/h9_change_90.jpg,Healthy,5,166,trainval,3,573e5718ea234ce5093fdffb3a01c89f,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(102).jpg,Healthy,5,167,trainval,4,2f4e7091921d5ab037d7cae20f4a5441,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(110).jpg,Healthy,5,170,trainval,1,5e99d4886b61bf7bf259ea2ef6f06dcf,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(119).jpg,Healthy,5,170,trainval,1,183afd9d7fa0bc0c9431043d965eb036,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(138).jpg,Healthy,5,172,trainval,4,90416511cf18ce01d86927ee6c015734,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(148).jpg,Healthy,5,173,trainval,0,4e914b6725cc9008a5b4b642cacc6715,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(161).jpg,Healthy,5,175,trainval,4,5aaf2bbebb64b2d867335e4aa6eaf4de,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(3).jpg,Healthy,5,176,test,-1,f67029ccfa719afd700fb58572416651,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(31).jpg,Healthy,5,177,trainval,2,50097f00157991005e74b3b77910ce68,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(36).jpg,Healthy,5,187,trainval,2,9e270fecb70fc6233155dc29ff60143c,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(43).jpg,Healthy,5,179,trainval,1,251b8847152b901a97b3aa127053f7a1,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(5).jpg,Healthy,5,180,trainval,3,3b831263f6abed6e2f0261aec431ce36,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(77).jpg,Healthy,5,182,trainval,1,9b9d4fc236b6d16a4d9201277e52ba07,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(80).jpg,Healthy,5,184,test,-1,a29b7b8dbc7d316a9ae691c1cf08bcd7,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(93).jpg,Healthy,5,185,trainval,0,f816585882c1b1d0c196fddaf8b5af5d,web/other
+Dataset (raw)/Tomato_Healthy_leaf/HL_(99).jpg,Healthy,5,186,trainval,2,470ae1c30c1cbe45f26ce9aa3fa51779,web/other
+Dataset (raw)/Tomato_Healthy_leaf/images (1).jpg,Healthy,5,187,trainval,2,75981d96b405bd43ff145854f8d3f6d6,web/other
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_152940.jpg,Healthy,5,188,trainval,1,c49be74be1d6322eac609c5886e50a7e,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_153304.jpg,Healthy,5,189,trainval,3,1f6d125df211ccf621b7a4c8ba322a0c,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_153353.jpg,Healthy,5,190,trainval,2,697258d0ee4be0d958f20e9de13ce78d,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_153538.jpg,Healthy,5,191,trainval,4,b9ece085df08f87180be22e89ade1a2b,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_155139.jpg,Healthy,5,192,trainval,2,19c92c4844e1e2280c292e0ac6e65146,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_160342.jpg,Healthy,5,193,trainval,1,dc85b7336dedad14f914c54b87d99673,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161615.jpg,Healthy,5,194,trainval,3,2a6c24052b249e8dd907993190278cac,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161622.jpg,Healthy,5,198,test,-1,37ec19fa65310d124353bd1829aeef3b,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161637.jpg,Healthy,5,203,trainval,4,df87a540ddff9135946b935587a8d47c,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161643.jpg,Healthy,5,205,trainval,2,1f7c2e75a9904a467f490358b4293b7a,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161652.jpg,Healthy,5,210,test,-1,e9fd0780a5c248111ec911d8e723d015,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161703.jpg,Healthy,5,210,test,-1,b01ce4b39b8ec0b491f2237176cd6dda,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161719.jpg,Healthy,5,212,trainval,0,85e8538b8ed2f91d29b18f8bd2d27225,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161720.jpg,Healthy,5,213,trainval,3,2eecc314f09676822d62c57cbedd705c,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161733.jpg,Healthy,5,214,trainval,3,46ea4189ed89aebbe3576e8343622051,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161748.jpg,Healthy,5,215,test,-1,b271b5e790c3ef452984546e05860d5f,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161752.jpg,Healthy,5,216,trainval,2,dd1b20863b9f3d481c4fc16c4e3d5b8b,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161755.jpg,Healthy,5,217,trainval,0,cacaffd533c346fc1eddc7d43fee3249,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161800.jpg,Healthy,5,218,trainval,4,b2bde8bbe357fb239ca08a2a43d47bb8,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161804.jpg,Healthy,5,219,test,-1,44fcab680cd2acdea8e0acfd1920b506,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161810.jpg,Healthy,5,220,trainval,0,121209600607900f424817e37224a00d,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161812.jpg,Healthy,5,221,test,-1,152b91ca8399bf63a7efe04464336dd6,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161824.jpg,Healthy,5,226,test,-1,1eec3ef057dd29075453d116b5ba8c8b,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161844.jpg,Healthy,5,231,trainval,1,61d9208b9dd98dc9031b255dc29049c0,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161850.jpg,Healthy,5,234,trainval,3,304bf07933f3c43019f1169820976fd1,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161853.jpg,Healthy,5,234,trainval,3,20f752fdf808a9c2fd1a6d0c809cda04,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161856.jpg,Healthy,5,234,trainval,3,d52c3296669bc71d043535e59709fe1d,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161859.jpg,Healthy,5,235,trainval,3,173a7b8f754d56eef19d886b9d6be4a0,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161931.jpg,Healthy,5,239,trainval,0,2885e403acf9da111dc9b0e113456428,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161933.jpg,Healthy,5,237,trainval,0,c66c5f1d11355d7eb2a00807d5048100,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161935.jpg,Healthy,5,238,trainval,1,db1215dad2c4b294444f3bb51ef85286,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161940.jpg,Healthy,5,239,trainval,0,48d5d90d76419a232356a92ad480e83d,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161944.jpg,Healthy,5,240,trainval,3,1466ffe486a52f5004c3a1e4175d0f93,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161948.jpg,Healthy,5,241,trainval,1,90016247e22e3511b8a680fda87f7156,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_161954.jpg,Healthy,5,242,trainval,1,b18fce595dfa0b1a5dec84b7bba0ab36,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162005.jpg,Healthy,5,243,trainval,1,56a023c7356daf5ff78c35c8c4a3e84f,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162015.jpg,Healthy,5,246,trainval,4,98c98af5fe10bcab8a747f899518b281,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162020.jpg,Healthy,5,245,test,-1,791410da22fbcaeb35e60c62d4002a7c,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162022.jpg,Healthy,5,246,trainval,4,5804ba785bdfa3f2c7a828effd12d10b,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162024.jpg,Healthy,5,247,trainval,0,40c263ccba92a46e83212350bfecfb19,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162033.jpg,Healthy,5,248,test,-1,489a8e30ab162cec4f6791aa598f5d21,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162036.jpg,Healthy,5,249,trainval,3,0bf44e6ff9052085c4974e6199d2f3cc,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162040.jpg,Healthy,5,250,trainval,1,e964a590a8192da3b88bab1c2b33ec4d,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162042.jpg,Healthy,5,251,test,-1,a235eb3dbff2f05e0a7f581f96d1e264,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162044.jpg,Healthy,5,252,trainval,2,28f2743b1f520035ad5b0cec163725bf,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/IMG_20251102_162045.jpg,Healthy,5,253,trainval,1,3fb51409b0f0fa9ccd3f426b803f7791,camera_2025-11-02
+Dataset (raw)/Tomato_Healthy_leaf/PxWBE.jpg,Healthy,5,254,trainval,2,821f723941dd2ac6aecfb1e49b4b6891,web/other
+Dataset (raw)/Tomato_Healthy_leaf/unnamed.jpg,Healthy,5,255,trainval,3,317797ff3f095d4a87fc6decb4612920,web/other
+Dataset (raw)/Tomato_leaf_late_blight/4621c.jpg,Late blight,1,256,trainval,2,ae800ff7573bf29acd191a1541a2d59c,web/other
+Dataset (raw)/Tomato_leaf_late_blight/4624s.jpg,Late blight,1,257,trainval,3,acd919bee58ca4f80be26f67af4a9f2f,web/other
+Dataset (raw)/Tomato_leaf_late_blight/5816170621_e1cce08736_z.jpg,Late blight,1,258,test,-1,be598f4c7d181d918f9ec673e3a9e64c,web/other
+Dataset (raw)/Tomato_leaf_late_blight/6-13lateblightleavesMARY_jpg.rf.1114a350a3d07eb0c4f5a4cdcbbe82ed.jpg,Late blight,1,259,trainval,3,75478a6d1d0401d0669b5ed0c1d1ea4e,web/other
+Dataset (raw)/Tomato_leaf_late_blight/8140cs.jpg,Late blight,1,347,trainval,0,4c49ff2d32ce685f8f489e5b7f572d02,web/other
+Dataset (raw)/Tomato_leaf_late_blight/924977LateBlightLeaf.jpg,Late blight,1,302,trainval,2,fb0239a637aa1529978ebd23336b53a9,web/other
+Dataset (raw)/Tomato_leaf_late_blight/a7710b5901ba1f8e9759ef7576cd9f09.jpg,Late blight,1,262,trainval,2,c01bd552f8df1930fcbdabb97a369e2f,web/other
+Dataset (raw)/Tomato_leaf_late_blight/August-17-2012-Supplemental-6.jpg,Late blight,1,346,trainval,4,7bd490e5fafdeaab75322b68a4e34d17,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Fig.%2014_opta.jpg,Late blight,1,264,trainval,0,f04d2b8fc5263408bcdbb8a9569d2d88,web/other
+Dataset (raw)/Tomato_leaf_late_blight/gardening-moisture-lateblight-tomato-leaf.jpg,Late blight,1,265,trainval,0,9d20e0bb32ccbca146e78fb4ac18b336,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls35.jpg,Late blight,1,266,trainval,3,28fd39d7fd583d0bf62ed31352ac8bde,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls45.jpg,Late blight,1,267,test,-1,709538bea471d204d96156ad588e8896,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls5.JPG,Late blight,1,268,trainval,2,4eafbb5a80b312a40777a87cc88a23ab,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls70_change_90.jpg,Late blight,1,269,trainval,1,23adb10f393dde18649859e79364f1c1,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls75.jpg,Late blight,1,270,test,-1,f7970e8a68814d000eb00e30c99531be,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls78.JPG,Late blight,1,271,trainval,2,5a5f339174b05d5922ae1c7c7111c97a,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls79.JPG,Late blight,1,272,trainval,0,971aa3ab83185ef2272ed71b48de6f7b,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Gls80_change_90.jpg,Late blight,1,273,test,-1,f800c74c544c885ded1fc49390777fc3,web/other
+Dataset (raw)/Tomato_leaf_late_blight/IMG-20240812-WA0237.jpg,Late blight,1,274,trainval,3,cccc047099eed3bec1a998594c322034,whatsapp
+Dataset (raw)/Tomato_leaf_late_blight/IMG20251102153828.jpg,Late blight,1,275,trainval,2,bac51158cc330dd2fc7d3bc18806d087,web/other
+Dataset (raw)/Tomato_leaf_late_blight/IMG_1526.jpg,Late blight,1,276,trainval,0,a6ff5a8c2e5b64b999d2175c0006b253,web/other
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_155447.jpg,Late blight,1,278,trainval,4,6710d6b63994694652f487cb88f55010,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_155822.jpg,Late blight,1,280,trainval,3,0689aef81e6f8d5d3af62d244f917fc5,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_160928.jpg,Late blight,1,281,test,-1,7971e9a474c2919d78d7ad26f9bd816d,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_161026.jpg,Late blight,1,282,trainval,1,a3c8b8546f599b24b52d18e209e86788,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_late_blight/IMG_20251102_161536.jpg,Late blight,1,284,trainval,0,191de3e7d6ddd1de4f49ead7ed856690,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_late_blight/IMG_4182.JPG.jpg,Late blight,1,335,trainval,1,1ba2d3b746ca5835cfddf5bd8c38f139,web/other
+Dataset (raw)/Tomato_leaf_late_blight/IMG_5808_jpg.rf.9de5af872dd2e7a58b115c4826fb18d4.jpg,Late blight,1,287,trainval,0,849e7ecd807ce6e7e0217e6bf08d4e83,web/other
+Dataset (raw)/Tomato_leaf_late_blight/IMG_5813.jpg,Late blight,1,288,trainval,4,f1ffb60268940b90b8f491319cee748b,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late-Blight-56a34bc55f9b58b7d0d15210_jpg.rf.034b4a46ee6c29d40c358a6b3b6ea22d.jpg,Late blight,1,289,trainval,1,4051729825ab8d50db0633f721f229e8,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late-Blight-A_jpg.rf.404bd45f3ea0a9664009b604aa4f0130.jpg,Late blight,1,290,trainval,4,e5aa7f1a89f1d77fc8b887ceae496092,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late-blight-foliar-leasion-on-tomato.jpg,Late blight,1,291,trainval,2,d89d60d261b94ee1b3008f2cb69ee8c3,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late-blight-leaves_jpg.rf.65d0be6c33fdefb7b0846cf58b09cd6a.jpg,Late blight,1,292,trainval,3,255d28988e8c690aa9f2065d1f41e425,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late-blight-on-a-tomato-leaf.jpg,Late blight,1,293,trainval,3,12dee4a0cce0225fa729a7b30ca17e66,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late-Blight-on-Tomato-4JDill.jpg,Late blight,1,294,trainval,1,548a25e7a12238f90035d87180ab960f,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late-blight-symptoms-on-tomato-leaves-1r3uhy2.jpg,Late blight,1,295,trainval,4,f106d2a34d9feed7c82a79e5bff8913b,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late-blight-tomato-leaf-VikramBisht-MBag.jpg,Late blight,1,296,test,-1,1a700a8bfc93c553f87dc85213095219,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late-blight-tomato.jpg,Late blight,1,297,trainval,1,bc637a9ba4aeca8f841a3dfebb87ec6c,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late-blight-TomC2-10.jpg,Late blight,1,298,trainval,3,d1522f5c2538f38b22d1aab6b08937ec,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LateBlight-Leaflet-Large-Spot_9005-ROTATED-sbzntn.jpg,Late blight,1,299,trainval,3,427ca0c005977fa4420d60c17c11fb48,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LateBlight-Tomato-JJ-2009-17nxg4q.jpg,Late blight,1,300,trainval,1,25e660e86e677b7de48d6c68ca6cfda9,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lateblight8_jpg.rf.ed3080de5a06831f5546e3ea3d9ff7a3.jpg,Late blight,1,301,test,-1,0fa95cb3e3e6e9c7c2937c49283d51ee,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LateBlightLeaf.jpg,Late blight,1,302,trainval,2,3aa9dcdfd99883b664a08e0590e09ddb,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lateblightTom_lesion.jpg,Late blight,1,303,trainval,1,06f25a0765a089e2cc656616e81ac482,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lateblightTom_lesion3.jpg,Late blight,1,304,trainval,1,e977e02883f3b1feed160ecc4e47a7d2,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lateblight_jpg.rf.8edd47a7a725047f37d3023b985615ec.jpg,Late blight,1,305,trainval,0,72b5929dbacea4d34b3351c69a2b5826,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Late_blight_on_tomato_leaf_%287871756748%29.jpg,Late blight,1,306,test,-1,154bd61cbe18e62d06752261157e46a4,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_blight_tomato_leaf.jpg,Late blight,1,307,trainval,4,44f59e1df40f0d05e77d3e95db4c68bb,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_blight_tomato_leaf1x1200.jpg,Late blight,1,308,trainval,2,1c739a9d8ad16ae325aa27cde8263f50,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_blight_tomato_leaf4x1200_jpg.rf.28fa84b6e9cf0f64bf101d64024d631e.jpg,Late blight,1,309,test,-1,de36f9a8a548922af933043926800fcc,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_blight_tomato_leaf5x12001.jpg,Late blight,1,310,trainval,3,1149460ad612c2d6a49b8dc600e24129,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_blight_tomato_leaf_.jpg,Late blight,1,311,trainval,4,1e39a731dc103e1f019d6e7ba0dd678b,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_blight_tomato_leaf_sporex1200.jpg,Late blight,1,312,trainval,2,35c69bfe1069119fe7549ce65c1c1528,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_blight_tomato_transplant2x1200.jpg,Late blight,1,313,test,-1,61879f610deb3167a1a0bb1c2f7bf0ed,web/other
+Dataset (raw)/Tomato_leaf_late_blight/late_jpg.rf.f64883c6ac50eb4f477851ddc23305e8.jpg,Late blight,1,314,test,-1,59c42eb488dd1a75fe2810b56435030b,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB-2-225x300.jpg,Late blight,1,315,test,-1,e552b67718e0a447558c075413dd70b7,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb11.JPG,Late blight,1,316,trainval,2,6d1b8e783adee1ad60c2be7f4d115034,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb51_change_90.jpg,Late blight,1,337,trainval,4,b5bd19432d348b12aedd8c82f491e15a,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb52.JPG,Late blight,1,318,trainval,0,4d8737fe90f268da63d53963fd4312a8,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb57_change_90.jpg,Late blight,1,319,trainval,2,db131b1c2da8e0bbfe8e56e4eac04058,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb59_change_180.jpg,Late blight,1,320,trainval,4,1fc5f7a37a47be52d4a65af6150c2167,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb67_change_90.jpg,Late blight,1,321,trainval,3,d9e01cd412dcc5baac59cf66a2e5fa3a,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb69.JPG,Late blight,1,336,trainval,1,2ada787cb3559b338d1c9b9179e1d470,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb76_lower.jpg,Late blight,1,323,trainval,2,9013cb4f06f5d64ab34796d4d48e71cf,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb77.JPG,Late blight,1,324,trainval,4,1beb653017e0d12c8ebc491cdf04fe31,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lb7_l_jpg.rf.2d03090b83ffe2e7ff5bb09c3d4fa293.jpg,Late blight,1,325,trainval,3,d53cf3c9f885212db2f7719586c1c3c9,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb85.JPG,Late blight,1,338,trainval,1,d1e82773cf7013083bedb2b008c5acbc,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb87_change_90.jpg,Late blight,1,327,test,-1,4889a898971da1b3689ee3da2fce0fb9,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb8_change_270.jpg,Late blight,1,328,trainval,0,f66ebb9e6ab5725ca83982653092ffa2,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb96_change_90.jpg,Late blight,1,329,test,-1,2e7323cad512ca32999a568a2a86e45c,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb97.JPG,Late blight,1,330,trainval,2,5aa23a79a81c5f26ef58f54fb5a7734d,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Lb98_change_90.jpg,Late blight,1,342,trainval,3,107f7312a312b2e02c56b5e3664cdff8,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lbleaf.jpg,Late blight,1,332,trainval,0,8711bd211866c4b9bc29e52ec292a513,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LBleaf2INIA_0.jpg,Late blight,1,333,trainval,4,4babaedef1709d2ecac2a55d78a22b8b,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (1).jpg,Late blight,1,334,trainval,0,607b5aa33f274e54f7b72ae46eba0887,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (277).JPG,Late blight,1,336,trainval,1,4b89e60b0b1991ad5e1ddc61051e7d9f,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (319).JPG,Late blight,1,337,trainval,4,6144c7192c380e0c53ba7efadabc1d2e,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (354).JPG,Late blight,1,339,trainval,4,182091c19a1d7fde982471bd263d6737,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (360).JPG,Late blight,1,340,trainval,0,9d691daff5e23ad3d8cd77dc736c96d0,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (361).JPG,Late blight,1,341,trainval,2,2f526c44bbea4abdba5429e6eed66374,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (366).JPG,Late blight,1,342,trainval,3,5aa058e9fa3f0552e2c92769de56989c,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (369).jpg,Late blight,1,352,trainval,1,25d361705e1d82f2ed3561e3049128c2,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (372).jpg,Late blight,1,354,trainval,0,ab93d2feda8045c160f22e3bc0d69df4,web/other
+Dataset (raw)/Tomato_leaf_late_blight/LB_ (387).jpg,Late blight,1,362,trainval,3,9eac06eefb2710201687e2bf6027d281,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lb_leaf_lesions2x1200.jpg,Late blight,1,348,trainval,3,f190f0487e67a98300f20e3d2a03e59a,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lb_leaf_lesions3x1200.jpg,Late blight,1,349,trainval,1,eb6d705522aaf9f6ae21ff97df7ee8c8,web/other
+Dataset (raw)/Tomato_leaf_late_blight/lb_leaf_lesions4x1200.jpg,Late blight,1,350,trainval,4,9ffe6f83d644f5798a348461632daab0,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Leaf-2Bsymptoms-2BMDA_jpg.rf.39b220104d04636fad4f5aae043826cb.jpg,Late blight,1,351,trainval,1,382b1df69eb0f811b219a606d05f6e85,web/other
+Dataset (raw)/Tomato_leaf_late_blight/photo-2.jpg,Late blight,1,353,trainval,1,c860634931e21038a4a0b2a8fefbe7cf,web/other
+Dataset (raw)/Tomato_leaf_late_blight/symptoms_of_late_blight_0.jpg,Late blight,1,355,trainval,0,2f6d0d038112e81273de9608ca6394a7,web/other
+Dataset (raw)/Tomato_leaf_late_blight/ToamtoLateBlight3-Version-3-oohvze.jpg,Late blight,1,356,test,-1,e288bf9c2e36461bbd4d7b9058dfc462,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Tomato%20late%20blight%20lesion%20closeup%2013F.JPG.jpg,Late blight,1,357,test,-1,de7eff5e1a6c2a6b4469d2314194850d,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato-late-blight-conn-2015-137c.jpg,Late blight,1,358,trainval,4,9ce8ba5433c5cd263b8466f94e3bf847,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,Late blight,1,359,test,-1,b7d77a8d8ccc64e96b3c513201fbe0ee,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato-late-blight-leaf-61-3x32.jpg,Late blight,1,360,trainval,0,1d0721469bf49d2ed1d7fc1e13f9377e,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato.early.blightH.jpg,Late blight,1,361,trainval,2,6072348280a3a8f26a1b369fce36930a,web/other
+Dataset (raw)/Tomato_leaf_late_blight/Tomato_Blight_Leaves.JPG.jpg,Late blight,1,363,test,-1,4a3b048d04acbf8c6b7b5859d752f0cb,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato_D33a-Late-blight-015-OMAFHRT_zoom.jpg,Late blight,1,364,trainval,4,d346ea538dcd6d461d5d6e0feff89baa,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato_late-blight_01_zoom.jpg,Late blight,1,365,test,-1,753838f09f8240a2f5778d64bdc0ed9c,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato_late-blight_03_zoom.jpg,Late blight,1,366,trainval,1,2224fea3eb7626e14e09e11fd02c8eca,web/other
+Dataset (raw)/Tomato_leaf_late_blight/tomato_late-blight_05_zoom.jpg,Late blight,1,368,test,-1,9a9be79cd6d5944ec43b9fb06cb74739,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/1342017-162221-44540.jpg,Yellow leaf curl virus,4,389,trainval,2,75b8e50fb1eaf521f63f640ca2409a22,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/1422_0_jpeg_jpg.rf.141e71ae4e0fb1b8cf91de832e61eea5.jpg,Yellow leaf curl virus,4,370,trainval,2,8ccb1eb50bc0d8659c5a1049d0dae7f9,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/18071.img.jpg,Yellow leaf curl virus,4,371,trainval,4,92cc5022e44bccb39275d49cf80ae87f,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/2.--Virused-tomato-leaves-versus.jpg,Yellow leaf curl virus,4,372,trainval,0,54c90063aee4bbc8bf1d907d145a7851,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/28619919393_7ef44acccc_b.jpg,Yellow leaf curl virus,4,373,trainval,0,283c0e7f1c01ee259990675dae068313,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/29994445671_b6914b44d0_b.jpg,Yellow leaf curl virus,4,374,trainval,1,e5f597e1c910190bd536181c8440aa45,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/36ca1410e232eec4a8003fe411246820.jpg,Yellow leaf curl virus,4,375,trainval,0,ebe1b7a103df1b7739ae29057495a969,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/3782849713_398f3a1086_b_jpg.rf.459a511773f9b32c153d53a41b5bd3d2.jpg,Yellow leaf curl virus,4,376,trainval,0,6aed03da229ed26da07631a2f693f56d,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/5146.jpg,Yellow leaf curl virus,4,377,trainval,2,47af7a4c289134d3c8617b0217c87cc2,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/534ddf3a932e62dd929a3ac1b29bfa29.jpg,Yellow leaf curl virus,4,378,trainval,4,a52276c8851e9fa63f0cdd4de5d9a997,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/8226402609_62d16884a7_b.jpg,Yellow leaf curl virus,4,379,trainval,3,4f33e4d741071a096fabad893e578368,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/8227475116_0d40e8f21c_b.jpg,Yellow leaf curl virus,4,380,trainval,2,cbb9dd083076f9542d7ed456a4df528a,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/ab40cce958c60d8b6e0ec2e4fdb8f526_jpg.rf.fc54d8302023bbae771a3d7a6aecbf89.jpg,Yellow leaf curl virus,4,434,trainval,1,1bc638b97acb361324dc5410c99f9f39,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/art_15017325188173_a24a66.jpg,Yellow leaf curl virus,4,382,trainval,2,4be1326034f439567d89a412d3afb278,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/d-to-tylv-fo005-14496A31BE70553130A.jpg,Yellow leaf curl virus,4,383,test,-1,f4b1a42002e8963b505c15a906285e20,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/DSC01999.JPG.jpg,Yellow leaf curl virus,4,384,trainval,2,a291f291adb46d0c1a95bce061c57654,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/DSC02006.JPG.jpg,Yellow leaf curl virus,4,385,trainval,3,18b5881607a48e3f68183ec6cdace78a,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/DSC02007.JPG.jpg,Yellow leaf curl virus,4,386,test,-1,95d39bdc4806873766e4d2f8475d4aeb,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/dscn1652cropped.jpg,Yellow leaf curl virus,4,387,test,-1,e2533442246cefc26fd290e4aa289190,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/DSC_3019_320x209.jpg,Yellow leaf curl virus,4,388,test,-1,73a8b9871c7590581ff8bda534ca635e,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/fwa2013313115151_jpg.rf.f46c682f69e0115a10044a45345f437a.jpg,Yellow leaf curl virus,4,389,trainval,2,9fa71a324912d760ab180f1f2d03daaa,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG20251102153724.jpg,Yellow leaf curl virus,4,390,trainval,3,23afa25c34d0bcc87979563807578f9a,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_153430.jpg,Yellow leaf curl virus,4,391,trainval,3,8d0309309705091ca9d675338fb4fa77,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_153921.jpg,Yellow leaf curl virus,4,392,test,-1,9f207ccdf20d7d6d8801fe0d6a582a58,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_154334.jpg,Yellow leaf curl virus,4,393,trainval,0,c370b87b56a7b217b43ac7ec4dc4d7d0,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_154339.jpg,Yellow leaf curl virus,4,394,trainval,3,ac77cb87034df55b6df28d5539e07242,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_154344.jpg,Yellow leaf curl virus,4,395,test,-1,b2a6a3a93eca84e3789a458591f202c0,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_154350.jpg,Yellow leaf curl virus,4,396,test,-1,14b6b217c5e7fe828b11313c71f439a4,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_154355.jpg,Yellow leaf curl virus,4,397,trainval,3,4273d251989717c8b46239850f97e09b,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155012.jpg,Yellow leaf curl virus,4,398,test,-1,c3393b619ee7d90c488187cc32b0910a,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155031.jpg,Yellow leaf curl virus,4,399,trainval,4,e13874cb45a67e60c4fa3e2bbf3d8fed,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155036.jpg,Yellow leaf curl virus,4,400,trainval,1,213a55fa237d699afc1daa5ed5410883,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155041.jpg,Yellow leaf curl virus,4,401,trainval,3,016112afa3227dcdd2a939d67fd33f74,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155042.jpg,Yellow leaf curl virus,4,403,trainval,4,3315170293eb426751f23d45bb72b22b,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155049.jpg,Yellow leaf curl virus,4,403,trainval,4,6f9bfdf8b618fecba585adcf91dce2f8,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155054.jpg,Yellow leaf curl virus,4,404,trainval,2,1aa836f8270a266d6acf7a0a5ee0a691,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155103.jpg,Yellow leaf curl virus,4,405,trainval,2,4f5f09d7d1f6c0a7fd7120e877589e68,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155115.jpg,Yellow leaf curl virus,4,406,trainval,3,d46f6642a4e6df7073e22b9398ca0909,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155119.jpg,Yellow leaf curl virus,4,407,trainval,0,e6e69a377b533d86c760b21b69f2d965,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155150.jpg,Yellow leaf curl virus,4,408,trainval,4,69b8be8d40fce36a9385e2b98752b9e2,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155154.jpg,Yellow leaf curl virus,4,410,test,-1,43fd199ca3c9d802fbcebab1d04d9470,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155156.jpg,Yellow leaf curl virus,4,410,test,-1,e21b18b1d57952eb8fa41c09320577f7,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155213.jpg,Yellow leaf curl virus,4,411,trainval,0,826e26110caa4d193a108c485f083d09,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155358.jpg,Yellow leaf curl virus,4,412,trainval,4,310928a1ca4a5d8370fa3d92fdbfbece,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155916.jpg,Yellow leaf curl virus,4,413,trainval,1,83a76b08d2db34a1a3add8457110e84d,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_155927.jpg,Yellow leaf curl virus,4,414,trainval,3,97217a6c24488545dcbcf418bb082e54,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_160455.jpg,Yellow leaf curl virus,4,415,trainval,4,fac2fe2a07cebeed0511dcee71d5e214,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_160553.jpg,Yellow leaf curl virus,4,416,trainval,4,f5beac2cb880f041250967227e49c91c,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/IMG_20251102_161617.jpg,Yellow leaf curl virus,4,419,trainval,1,0c0e9203f198e1f9523b935c33549810,camera_2025-11-02
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/latest_cb=20100719124603.jpg,Yellow leaf curl virus,4,421,trainval,1,f7201c566215fd8b5f668f7a2c52ef01,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/leaf%20curl_3.jpg,Yellow leaf curl virus,4,422,trainval,1,fb28ea60af8d88f14f6f8064b1d38fa9,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/psyllid-yellows.jpg,Yellow leaf curl virus,4,423,trainval,4,e4494fcd088a8f56b98fc696e66f6b8a,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/r_tomato.jpg,Yellow leaf curl virus,4,424,trainval,4,9e7631424c358f34b781264b8c6f7012,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/s-prasanth-kumar-young-scientist-awarded-presentation-2-728.jpg,Yellow leaf curl virus,4,425,trainval,0,0fdb151a18847e09b96fabfb0a0b7ed7,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tj5itxzunn3k.jpg,Yellow leaf curl virus,4,426,test,-1,193a9498aac91acff1002c3e4b3ab293,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato-plant-virus-tomato-yellow-leaf-curl-virus-tomato-plant-disease-mosaic-virus.jpg,Yellow leaf curl virus,4,445,trainval,0,2fe3ae1e3cf562f0aac2092f5e0da7a4,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato-yellow-closeup-2.jpg,Yellow leaf curl virus,4,428,trainval,2,08564040a0c977dbee2f2f9555d0a3db,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato-yellow-closeup-3.jpg,Yellow leaf curl virus,4,429,trainval,2,7c78cbd3bfd022a1e638d59d6f37e70d,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato-yellow-closeup-4.jpg,Yellow leaf curl virus,4,430,test,-1,fd7f7596afd09c79e5c65d9d07fd09fc,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato-yellow-leaf-curl-disease-260nw-1072448252.jpg,Yellow leaf curl virus,4,431,trainval,1,29c3259cbe24cae178e935f2b2c27d40,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato-yellow-leaf-curl-virus-tomato-1.jpg,Yellow leaf curl virus,4,432,trainval,1,946f04e7179016486b18faeb44e61409,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato-yellow-leaf-curl-virus-tylcv_950983.jpg,Yellow leaf curl virus,4,433,trainval,4,dbc62cfa69ba89ebeada2ef574398b84,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/Tomato2.jpg,Yellow leaf curl virus,4,434,trainval,1,60bec767d9774d36d1cb08ce793e5e2d,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomatoyellowleafcurlcropped.jpg,Yellow leaf curl virus,4,435,trainval,2,bdb5d86cfe8277384d839c2e49bde1e9,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tomato_yellow_leaf_curl_virus.jpg,Yellow leaf curl virus,4,436,trainval,0,96f0995a1e99ac3dfcb7917fd7355456,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/TYLCV-tomate-DB-441-170.jpg,Yellow leaf curl virus,4,437,trainval,4,e7b612f1a9083a19226da27cc988ca47,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/TYLCV-tomate-DB-442-167.jpg,Yellow leaf curl virus,4,438,trainval,3,c31e1d27a77b7cdab0caff70f6bcc24a,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/TYLCV-tomate-DB-445-171.jpg,Yellow leaf curl virus,4,439,trainval,0,95901b48b6e9253dfe7edc81f5c8cc4e,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tylcv.jpg,Yellow leaf curl virus,4,440,trainval,3,67e3733325b3fa0f4197148a41ace97d,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/tylcv1-.jpg,Yellow leaf curl virus,4,441,test,-1,0cf24da1890a3aff251af42fcc0e8fb5,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/TYLCV1.jpg,Yellow leaf curl virus,4,442,test,-1,1382125c48515cf1b307e55a2b2566a3,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/TYLCV2.jpg,Yellow leaf curl virus,4,443,trainval,3,e117bd767a09bd9ebd24090ae48c0db4,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/TYLCV4.jpg,Yellow leaf curl virus,4,444,trainval,1,af5ec86d45757faa270740c2e2295d96,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/TYLCVDFerrinlr.jpg,Yellow leaf curl virus,4,445,trainval,0,cd7f7dba42e2bc3f1d144c67b3808b46,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/virus1.jpg,Yellow leaf curl virus,4,446,trainval,0,5d1a252c120ef1b5f48c6faea0ac40be,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/virus2.jpg,Yellow leaf curl virus,4,447,test,-1,66a040b8efa44eb9527f470d353d3b31,web/other
+Dataset (raw)/Tomato_leaf_yellow_curl_virus/yellowing.JPG.jpg,Yellow leaf curl virus,4,448,trainval,1,775d2b57bf4560b84798f44e344f68c4,web/other
+Dataset (raw)/Tomato_mold_leaf/1723454500586.jpg,Leaf mold,3,449,trainval,3,77caa0b465d9be396f3183b143669d7b,epoch_ms_name
+Dataset (raw)/Tomato_mold_leaf/23601051_1572608349449262_2029169498_o.jpg,Leaf mold,3,450,trainval,4,c0997ab48f97bff4bbce6194700ec0d3,web/other
+Dataset (raw)/Tomato_mold_leaf/23633262_1572609386115825_1396180255_o.jpg,Leaf mold,3,451,test,-1,c484aaaee817fcf02125fd5d07fecf09,web/other
+Dataset (raw)/Tomato_mold_leaf/4118c92ffde66d327ee14e4023320bf7.jpg,Leaf mold,3,452,trainval,2,22f56dbb5fc25b1f337239f21c60f815,web/other
+Dataset (raw)/Tomato_mold_leaf/6032331.JPG.jpg,Leaf mold,3,453,trainval,1,ed7d621ee1fb53273334c389e109e4bf,web/other
+Dataset (raw)/Tomato_mold_leaf/607-155-0.jpg,Leaf mold,3,454,trainval,1,f6ec9c7c880bf1b29247c73ea9183a0c,web/other
+Dataset (raw)/Tomato_mold_leaf/BlackLeafMold2.jpg,Leaf mold,3,455,trainval,0,9d7a909766e27c2ab74caa92423e9a87,web/other
+Dataset (raw)/Tomato_mold_leaf/Botrytis-Tomato-Seedlings-2-copy-50QUALITY-17wck0d.jpg,Leaf mold,3,456,trainval,3,8f5ecfa32d2a7145b6ee70dd4f792389,web/other
+Dataset (raw)/Tomato_mold_leaf/dscn6690.jpg,Leaf mold,3,457,test,-1,bf235d5bb2e0b535bd892ab07495ce5d,web/other
+Dataset (raw)/Tomato_mold_leaf/Fig.%2015_opta.jpg,Leaf mold,3,458,trainval,4,4bd8cf638aa0a7728f8a5d13e1913ece,web/other
+Dataset (raw)/Tomato_mold_leaf/Fig.%2016_opt.jpg,Leaf mold,3,459,test,-1,6bb9491185d0232d5cdf0cfdf7856bff,web/other
+Dataset (raw)/Tomato_mold_leaf/GIVXB.jpg,Leaf mold,3,460,trainval,2,4232f284234ff8671e6a05b1458fdc05,web/other
+Dataset (raw)/Tomato_mold_leaf/HighTunnel_TLM6.jpg,Leaf mold,3,461,trainval,1,172640d2675d3ecb458d35f25e718616,web/other
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0016.jpg,Leaf mold,3,462,test,-1,984fb7786ffa90f130152b3e8df6f063,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0019.jpg,Leaf mold,3,463,trainval,4,9bc924035cf1e8eac8ce32d3f6d88693,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0020.jpg,Leaf mold,3,464,test,-1,dc963d2b70e9305b0c7eb8b6da050955,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0022.jpg,Leaf mold,3,465,trainval,3,1c1f3b490a1943e58359e33e0fd5ff0e,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0023.jpg,Leaf mold,3,466,trainval,3,d6849d45c060dc9095674225ee3e6abe,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0024.jpg,Leaf mold,3,468,trainval,3,e62119b5f4d514af9d4f6c8a2cded325,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0025.jpg,Leaf mold,3,468,trainval,3,b48691e954828215f189b065650daeb7,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0044.jpg,Leaf mold,3,469,trainval,2,905e218d0de5442a0c55f143bdd0c3f8,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0045.jpg,Leaf mold,3,470,trainval,4,e3a318fcb2fcd5f4c303550456810590,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0049.jpg,Leaf mold,3,476,trainval,4,8f6edd3a421cfa757e689f0812f3518f,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0052.jpg,Leaf mold,3,472,trainval,1,977cb63a370a43afdf4a1d076787b4d7,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0053.jpg,Leaf mold,3,473,trainval,0,bd4030a204c246aa4b8cef9f6498a380,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0055.jpg,Leaf mold,3,474,trainval,1,dea319edd8b93e1af8abbe22bebcf198,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0063.jpg,Leaf mold,3,475,trainval,2,0532f3f8a2cea95ba09f8eeb83cfb48c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0065.jpg,Leaf mold,3,476,trainval,4,6f91abd38e585d46559a083977fedd69,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0068.jpg,Leaf mold,3,477,test,-1,77103083fc5886018ce5fbfce1c42ebf,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0071.jpg,Leaf mold,3,478,trainval,1,aa363d4b145eba27fcb72c424e38d474,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0072.jpg,Leaf mold,3,479,test,-1,d938d30ee507054fdd2af984bdedfb39,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0073.jpg,Leaf mold,3,480,test,-1,763a57e17a16e31721ee7b66beefcb41,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0078.jpg,Leaf mold,3,481,trainval,0,92e8bb6f1175ce07cac3aa90bb29a67e,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0099.jpg,Leaf mold,3,482,trainval,2,25b1adbb0e4224250329554c4fc4c4f2,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0102.jpg,Leaf mold,3,484,trainval,3,afb2400e9f0eab8378695e20ca2eb8b1,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0103.jpg,Leaf mold,3,484,trainval,3,4542037bc6fb3877f632c580098f673d,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0105.jpg,Leaf mold,3,485,trainval,4,c0241e543342e24274e812331fdc25e3,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0106.jpg,Leaf mold,3,486,trainval,1,b584fe82de8b009d2c7aaed842fa1c6c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0107.jpg,Leaf mold,3,487,trainval,3,9653085975f8ec714ed8acd0fd2e19a7,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0108.jpg,Leaf mold,3,488,test,-1,472a6939aac681094da300298f033773,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0109.jpg,Leaf mold,3,489,trainval,1,b45cb9b80a81e06796c6f309bd4cbc14,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0110.jpg,Leaf mold,3,490,trainval,1,9fff702362a1c7be7d12f92c52b0c853,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240724-WA0114.jpg,Leaf mold,3,491,test,-1,ba79f32609b2bf38949283b52a4eb641,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0017.jpg,Leaf mold,3,492,trainval,1,ec9a02fa76d154d944a2b208eae6cce6,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0018.jpg,Leaf mold,3,493,trainval,3,ce0d5bc6e8e88de078f92044f8ca49bd,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0019.jpg,Leaf mold,3,494,trainval,1,74bcaee4a0ea586e4aa45bb6053d08eb,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0021.jpg,Leaf mold,3,495,trainval,2,75e2c6ccf70a1b07643ae5c0b3083636,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0024.jpg,Leaf mold,3,496,trainval,0,3c834b70e77970da148f89f73be4a05e,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0025.jpg,Leaf mold,3,497,trainval,4,30b2fc79cd46f1ae196d36d73181263c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0031.jpg,Leaf mold,3,498,trainval,2,65c1499757029d02e71b3a574dc479f6,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0033.jpg,Leaf mold,3,499,trainval,3,a39ec6029fba60e1c3de5a14eb539a3f,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0035.jpg,Leaf mold,3,500,test,-1,aad34da5c718ac5bc45c94abde582ae9,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0037.jpg,Leaf mold,3,501,trainval,0,bd2337e10f5720ec81e2db465dab63eb,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240725-WA0038.jpg,Leaf mold,3,502,trainval,1,558cde7ef791a908128a5ce9577cb2f4,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0006.jpg,Leaf mold,3,503,trainval,2,0e3e25d7e76753b54ebb890435dc9a0d,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0014.jpg,Leaf mold,3,504,trainval,0,1bd1cc289729096d962dff250eedf8d7,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0037.jpg,Leaf mold,3,506,trainval,0,0612f8cbd2a90986b8b26498a3e9c0b1,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0038.jpg,Leaf mold,3,506,trainval,0,5eacb933b697ece9154abd31e838f66d,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0040.jpg,Leaf mold,3,508,trainval,3,411022fd72863141fed1a74881307fa3,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0041.jpg,Leaf mold,3,508,trainval,3,c86b89ffacd5bc6575cbb1c43fd2bf4f,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0044.jpg,Leaf mold,3,509,trainval,4,7343d0228caf7cecb9c46989e12efed4,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0045.jpg,Leaf mold,3,511,trainval,1,e0fb09699e02c5b304dd77f4f08b7b5f,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0055.jpg,Leaf mold,3,511,trainval,1,9930ed49d85f0a1f53274b7976a66902,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0059.jpg,Leaf mold,3,512,trainval,2,f43748760c3beaac1ce15b8b8c2d3120,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0061.jpg,Leaf mold,3,513,trainval,0,fe7c902dd2b44e9ed821448feff607f3,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0062.jpg,Leaf mold,3,514,test,-1,48b1d8a3174bc6f5790b95382f77e60f,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0100.jpg,Leaf mold,3,515,trainval,2,83e31ca23fc563cc167e3610b6764317,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0108.jpg,Leaf mold,3,516,trainval,1,3f3d6e7e24427a3480b558efa999987f,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0112.jpg,Leaf mold,3,517,test,-1,cb3722aeca48a1228e1d458d00520581,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0115.jpg,Leaf mold,3,536,trainval,2,80f915640e9544d887f9b425e6aad543,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0117.jpg,Leaf mold,3,519,trainval,2,568fded432c9d2cfd51eea36ea1ad220,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0118.jpg,Leaf mold,3,534,trainval,1,075b0564a5dcbe3900d9737cbea3e8f4,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0120.jpg,Leaf mold,3,521,test,-1,ce7cfb1db6374509ef28515b6b5bec3c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0123.jpg,Leaf mold,3,523,trainval,2,4f3e9097c2be95c186879d7d1ef4cd7a,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0124.jpg,Leaf mold,3,523,trainval,2,266c6cee1588624b9292e05e04104a95,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0125.jpg,Leaf mold,3,524,trainval,3,5aac86db91889a5568d25cdbe5444d21,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0149.jpg,Leaf mold,3,525,trainval,3,7d4d31295d2f599b927718b84784b04d,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0151.jpg,Leaf mold,3,526,trainval,2,1c59772c9f790ddb71fc932f3b8fa6d1,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0153.jpg,Leaf mold,3,527,trainval,3,e8b020fb0dfee72bca0f4683a82bd224,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0154.jpg,Leaf mold,3,528,trainval,3,3c7ae9375f3cafc875037a00c2d93b26,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0155.jpg,Leaf mold,3,529,trainval,2,8d4268cf29f2ed3930612c0281318a15,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0156.jpg,Leaf mold,3,530,trainval,4,081bcc896096933ce72e94667949504c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0157.jpg,Leaf mold,3,531,trainval,4,ff20f615205b4bebd29faba57e86fbf2,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0165.jpg,Leaf mold,3,532,trainval,4,6aefe506f04b8445bbf017327956827a,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0167.jpg,Leaf mold,3,533,trainval,0,a1bcd86ebe904e2715901e4706dea96e,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0169.jpg,Leaf mold,3,534,trainval,1,8329b12ed6f5f27fe4ee3ae5c2484daf,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0172.jpg,Leaf mold,3,536,trainval,2,39e51ed170b0eb26d78dcba60a1ea853,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0174.jpg,Leaf mold,3,536,trainval,2,e9aa99f9bc4eb6b9c482f12cef88c6cf,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0176.jpg,Leaf mold,3,537,test,-1,37d85756b2fb2b9ab276fbe37ec3df34,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0197.jpg,Leaf mold,3,538,trainval,4,a6e9d8c128b76ef3b486b6e9a43b3843,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240727-WA0199.jpg,Leaf mold,3,539,trainval,1,db5884b3534ddaf430a3b89026846d93,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0014.jpg,Leaf mold,3,549,test,-1,8cbaefcb514925d2e4473d4ba775b33a,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0015.jpg,Leaf mold,3,541,test,-1,693a328aef86b967c6580fc63c02f6b2,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0016.jpg,Leaf mold,3,593,test,-1,99fa43030c76220ae48daa932744be06,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0019.jpg,Leaf mold,3,543,trainval,4,3d6c07b97fa95b405ade93d4f1aedea6,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0020.jpg,Leaf mold,3,544,test,-1,c4cbf3f649b9be140e4f1f1cb87a48bb,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0021.jpg,Leaf mold,3,545,trainval,2,d61cfab4e2c0ccf0215ff3095ad9f3b0,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0024.jpg,Leaf mold,3,546,trainval,0,f308a19e58119ec0c9c34611b12d1032,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0026.jpg,Leaf mold,3,562,trainval,4,d62bc1c1b32be19b34c965c7ff259ba9,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0028.jpg,Leaf mold,3,550,trainval,1,ff3f49782ad11c3ff3fe1f83b69474ec,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0029.jpg,Leaf mold,3,549,test,-1,2603e52f5a5ef429d2716ce6972ee11a,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0035.jpg,Leaf mold,3,550,trainval,1,97277cbd0e8a43e1490020a667e8e309,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0036.jpg,Leaf mold,3,563,trainval,0,1f1aae446dc914c0ed293d752dffd5a5,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0041.jpg,Leaf mold,3,552,trainval,4,7923c95ebeed5c1c433e0545b087f9a2,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0045.jpg,Leaf mold,3,558,trainval,4,9485292c080a4d43b22cb03acc225aea,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0046.jpg,Leaf mold,3,586,trainval,3,a1090442f8ac5ce4b1c9d9039c97fa53,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0047.jpg,Leaf mold,3,555,test,-1,9a58509ff263c93290f054b969ff2d12,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0049.jpg,Leaf mold,3,556,trainval,4,f478760a081759ffbb0a9096227312c2,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0050.jpg,Leaf mold,3,557,trainval,3,077ea4779b594ea8a58e5c4ad1c6dd09,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0051.jpg,Leaf mold,3,558,trainval,4,5c0d7a16cda1565e50f1c3944f88459b,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0053.jpg,Leaf mold,3,559,trainval,3,d8537908a0b76a91f5d38152af42b5f0,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0054.jpg,Leaf mold,3,587,test,-1,02e72119819b0f5f155725dea88eba73,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0055.jpg,Leaf mold,3,561,trainval,1,f90737bd32ef788608d2cba642a3c916,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0057.jpg,Leaf mold,3,562,trainval,4,40e111d097fe6a3c4d49d468468c0464,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0058.jpg,Leaf mold,3,563,trainval,0,a51e79e3a0fda8bdd682330533fc967c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0059.jpg,Leaf mold,3,564,trainval,3,c887b8486ed1c7faf6c904d87fdb1b87,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0060.jpg,Leaf mold,3,578,trainval,2,463e874115bf82deb6f8679381a770c3,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0061.jpg,Leaf mold,3,566,trainval,1,f35312348d62ef75fd80828da79b9c93,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0063.jpg,Leaf mold,3,567,trainval,1,d93622c29933a40e404680426bea3c03,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0064.jpg,Leaf mold,3,568,trainval,3,d70110d0afc662770ccff066a1b0225c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0065.jpg,Leaf mold,3,569,trainval,4,cc5465118e9ad40c2b1b18c2ec98e36f,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0066.jpg,Leaf mold,3,570,trainval,3,38b090eee382597beb0c23550de23a76,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0067.jpg,Leaf mold,3,571,trainval,1,0807987d74fa0bde15cf8ef2b7e82533,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0068.jpg,Leaf mold,3,572,trainval,2,61f28c9fc84cd752334e7dd5a996e711,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0070.jpg,Leaf mold,3,573,test,-1,7bc089d60e26d71cd9a9ba60d7adbde5,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0073.jpg,Leaf mold,3,574,trainval,2,bf86a1822c3d679ffe805b6777a89024,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0074.jpg,Leaf mold,3,580,test,-1,4b3a83d5947f43e4a03c6a5664889ad8,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0075.jpg,Leaf mold,3,576,trainval,1,2ae8ce643dbc8b4b0b7e7c69f071f805,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0077.jpg,Leaf mold,3,577,trainval,0,87cb965a6fb842e465006d40b5b6716e,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0078.jpg,Leaf mold,3,578,trainval,2,730cb11c8373fdd7a76b6bcf15245f22,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0079.jpg,Leaf mold,3,580,test,-1,dd2aa10f5ea94bf46f7446198c979198,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0080.jpg,Leaf mold,3,580,test,-1,8f7f063893ab54331a9827b9f8f84af8,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0083.jpg,Leaf mold,3,581,trainval,0,82f8720cdff36a5b22769d94cdee5386,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0086.jpg,Leaf mold,3,583,test,-1,0ef2ae655619639c3eeeca36481c4b24,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0087.jpg,Leaf mold,3,584,trainval,4,f1b936400212d22259a2a3ce2764ed1d,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0089.jpg,Leaf mold,3,585,trainval,4,18816dbcdd67a6faf54968d21da1e457,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0093.jpg,Leaf mold,3,586,trainval,3,d59e63d26116d42cb0a2a0e0d5bbab7d,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0094.jpg,Leaf mold,3,587,test,-1,c98d85c5750edcb2249e892d38d9652a,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0096.jpg,Leaf mold,3,588,trainval,2,69ee29f279d65f9aa117dd27c4c480a7,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0101.jpg,Leaf mold,3,589,trainval,0,5bda11c992146e06f8eb87e753d8e0ef,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0102.jpg,Leaf mold,3,590,test,-1,6bd022f5066d290f5b40dda39ce6a3d5,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0103.jpg,Leaf mold,3,591,trainval,2,16f1938280fdf780df4f47364755a034,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0107.jpg,Leaf mold,3,592,trainval,4,4ee1dfa910c7229affd238f14e2eec1d,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240728-WA0108.jpg,Leaf mold,3,593,test,-1,5b5360caea9b9a3afabc8f907e9adddd,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240729-WA0075.jpg,Leaf mold,3,594,trainval,3,5db32ad0ddc7b3e2da58ca4e7bc9b2ee,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240812-WA0183.jpg,Leaf mold,3,595,trainval,2,d3de8dd05b0da0cbc52e35cb64eb6c32,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240812-WA0209.jpg,Leaf mold,3,596,test,-1,ec023c02a1e4879a7a016cd6c45c61d3,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240812-WA0245.jpg,Leaf mold,3,597,trainval,1,6f41ea0f4ffc02cee605551fcf0c8d0c,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG-20240812-WA0349.jpg,Leaf mold,3,598,test,-1,18e4e0431671cb18febca47363a7ee50,whatsapp
+Dataset (raw)/Tomato_mold_leaf/IMG_1261.jpg,Leaf mold,3,599,trainval,0,48c950f0a79dc913e0d682fe66f62663,web/other
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_154920.jpg,Leaf mold,3,600,test,-1,0a38bc7fccaff707ac97983da617aeeb,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155449.jpg,Leaf mold,3,603,trainval,0,c559ea3727a4759b6296b064f20376ec,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155536.jpg,Leaf mold,3,604,trainval,0,c6bd3a61b074f30eb886f596e1c91935,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155636.jpg,Leaf mold,3,605,trainval,0,20fa7f31e9191426940897e65e79b25a,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155801.jpg,Leaf mold,3,606,trainval,2,89040aef9b8d9218021b6e581e410540,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_155812.jpg,Leaf mold,3,607,trainval,4,16e7b48f845643f2040ea7cbe5c6a246,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_160906.jpg,Leaf mold,3,609,trainval,0,c027431604016d99099e3ba8dc524817,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_160910.jpg,Leaf mold,3,609,trainval,0,779ef5f1341d2ffc55fd9f04c52fee1f,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_160956.jpg,Leaf mold,3,610,trainval,1,87d31d66698d1c6c4243218f3ea52aef,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/IMG_20251102_161015.jpg,Leaf mold,3,611,trainval,0,ad2a5fb49fbed04fa681dc4ac7b4ebc7,camera_2025-11-02
+Dataset (raw)/Tomato_mold_leaf/leaf%2Binf%2B800%2B1.jpg,Leaf mold,3,612,trainval,4,ba0b16ab5cbf855e025403eeebc6da9d,web/other
+Dataset (raw)/Tomato_mold_leaf/Leaf+mold+tomato+%25282%2529.JPG.jpg,Leaf mold,3,613,test,-1,5d82b04f12385bf97130bd199f1a0ac7,web/other
+Dataset (raw)/Tomato_mold_leaf/Leaf-mold-web.jpg,Leaf mold,3,614,trainval,3,581a6ec9fe5638f4d63e916d04c2e863,web/other
+Dataset (raw)/Tomato_mold_leaf/leafmoldtomato1.jpg,Leaf mold,3,615,trainval,3,dd4b0280655fffcafb6f20d3f5cb37e6,web/other
+Dataset (raw)/Tomato_mold_leaf/leafmoldtomato2.jpg,Leaf mold,3,616,test,-1,82aee4671cd45c0718f393303096f76c,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_nightshade1x500.jpg,Leaf mold,3,617,trainval,3,963751e79cbbdac87eab42d9fe942bc0,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_nightshade2x500.jpg,Leaf mold,3,618,test,-1,2f81a1799dbe90f3149b467a946a9b1f,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_tomato1x1200.jpg,Leaf mold,3,619,trainval,0,041dfba47050618871bfcc5aff156eec,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_tomato2x1200.jpg,Leaf mold,3,620,trainval,0,2ad0ce1e14dafd655566e3c3d9056769,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_tomato3x1200.jpg,Leaf mold,3,621,trainval,2,fc4e161e4073de3c4536c6231c542219,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_tomato4x1200.jpg,Leaf mold,3,622,trainval,4,1c59f8b170347839b87d6ce6e9ef4b7a,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_tomato5x1200.jpg,Leaf mold,3,623,trainval,1,796f649cb28b7a8cf0f1e78cc0b05e9e,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_tomato6x1200.jpg,Leaf mold,3,624,trainval,0,c3c8dfe65eb038bb6f2641aef753c4f9,web/other
+Dataset (raw)/Tomato_mold_leaf/leaf_mold_tomato7x1200.jpg,Leaf mold,3,625,trainval,3,41d04f667988e9ab5885f1395dd03c93,web/other
+Dataset (raw)/Tomato_mold_leaf/pm3.jpg,Leaf mold,3,626,trainval,0,aeaa9f7ae20e19ad4d1e786714ce77bd,web/other
+Dataset (raw)/Tomato_mold_leaf/Tomato+leaf+mold.jpg,Leaf mold,3,627,trainval,2,c3ead6d87591fcb54bdc7fb876f8da9f,web/other
+Dataset (raw)/Tomato_mold_leaf/tomato-gray-leaf-spot.jpg,Leaf mold,3,628,trainval,4,79173e9d2fca078a10b2e1a3d2ad91b5,web/other
+Dataset (raw)/Tomato_mold_leaf/tomato-leaf-2.jpg,Leaf mold,3,629,trainval,0,f2777cd937d82dc4b36c70bb5390f254,web/other
+Dataset (raw)/Tomato_mold_leaf/tomato-leaf-mold.jpg,Leaf mold,3,630,trainval,2,1d031435ac4b8d72d918eb24a76c6632,web/other
+Dataset (raw)/Tomato_mold_leaf/TomatoLeafMold1-50QUALITY-16lgkq6.jpg,Leaf mold,3,631,test,-1,39751cc21d33631c87b4b5d679db9b6c,web/other
+Dataset (raw)/Tomato_mold_leaf/tomato_fulvia.jpg,Leaf mold,3,632,trainval,4,19704bb430c832502eb9ca0041e7da9e,web/other
+Dataset (raw)/Tomato_mold_leaf/tomato_leaf-mold_02_zoom.jpg,Leaf mold,3,633,trainval,0,207a4c33f3bb5247252e6add2aca3ecd,web/other
+Dataset (raw)/Tomato_mold_leaf/tomato_leaf-mold_03_zoom.jpg,Leaf mold,3,634,trainval,1,2ecdba20236e722f7155ad6161bb5766,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/1058_0.jpeg_itok=OQkdtxgv.jpg,Septoria leaf spot,2,635,test,-1,47449060a78a0c428ac8df0e7dc4db95,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/128110613-56a6d3633df78cf7729070ad.jpg,Septoria leaf spot,2,636,test,-1,5127da2b43c3bb75d6e1369c0f951366,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/12July_mwnews_3-C.jpg,Septoria leaf spot,2,749,trainval,2,adc798a6f1072bf61e53a33f5b1207ec,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/140714+%2811%29.JPG.jpg,Septoria leaf spot,2,638,trainval,2,67d135056cd81e2a5748d419d5e43d6a,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/1723454505812.jpg,Septoria leaf spot,2,639,trainval,2,8346b95c589887d8d04e5ea66469dc30,epoch_ms_name
+Dataset (raw)/Tomato_Septoria_leaf_spot/1723454507354.jpg,Septoria leaf spot,2,640,trainval,2,77b1ec8e8eea999fcfc68e4b75883b6e,epoch_ms_name
+Dataset (raw)/Tomato_Septoria_leaf_spot/1723454507465.jpg,Septoria leaf spot,2,641,trainval,4,85756f3623d29928d4e51331b1119ecf,epoch_ms_name
+Dataset (raw)/Tomato_Septoria_leaf_spot/1723454507962.jpg,Septoria leaf spot,2,642,trainval,3,209e9c9d83dff2f6778504ce311d2090,epoch_ms_name
+Dataset (raw)/Tomato_Septoria_leaf_spot/1b.jpg,Septoria leaf spot,2,643,trainval,1,a12cde80d574431743db47ee5887f7e2,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/1c421500ddd390c90596ad2cf12d5429.jpg,Septoria leaf spot,2,644,trainval,4,b39100ca02d66927473ad7b12fc7e8c4,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/20809116-standard.jpg,Septoria leaf spot,2,645,trainval,2,5d7567eca882e48a5345780c8130eb17,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/4853086777_bc41d29801.jpg,Septoria leaf spot,2,646,trainval,1,fc88cc4f6ec0c22c0d87f843fa4e5f6a,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/49-Septoria-leaf-spot.jpg,Septoria leaf spot,2,647,trainval,3,93755ab9163f18e1dce5e19ea6715de5,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/5008922249_880e15c21f.jpg,Septoria leaf spot,2,648,trainval,0,d370a6dc424fcc78142b80324b5c3a0d,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/5454635393351680.jpeg.jpg,Septoria leaf spot,2,766,trainval,1,296a27ab738118b91966030de2446c14,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/5775225744523264.jpeg.jpg,Septoria leaf spot,2,650,trainval,3,3c4e016992b66fa33681188e62cf3872,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/5866245865865216.jpeg.jpg,Septoria leaf spot,2,768,test,-1,3c1889447e069dda1f03557341467446,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/5c77186a4ea326e5495c9d03cd89ce16.jpg,Septoria leaf spot,2,778,trainval,0,bb3cf358590742f0a063e77d1df92c47,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/6+1+09+019.jpg,Septoria leaf spot,2,653,trainval,1,9cc919d8a97499718bd18e832acb91c2,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/6078710516023296.jpeg.jpg,Septoria leaf spot,2,769,trainval,0,7a070673f7dbc9b4439934665fec1bb0,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/6242739939180544.jpeg.jpg,Septoria leaf spot,2,655,test,-1,3e1099700516c8be2090866c5fb47ebf,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/6336392950972416.jpeg.jpg,Septoria leaf spot,2,656,trainval,2,a59779ded561f38c106aa22065c78a94,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/66e7583ebe11cf0bd06435e4167bd4fd.jpg,Septoria leaf spot,2,657,trainval,4,556b43f0a705586e14f2d95993de7e93,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/71c944d61b08f6373a9a38d3c250cb2e_jpg.rf.a329e53178be5dc3b85f3a36074cfae7.jpg,Septoria leaf spot,2,658,trainval,0,1c0b58e1b2d9b30d293cd59c5447e0c0,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/b54d0e40027ff5e90e8ba7e1e9abf9bd.jpg,Septoria leaf spot,2,659,trainval,4,3c75c12e343c2c9a6f15e2ec86df593f,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/b6ca3f80-cc10-4d4f-be0d-771deb9a4969.jpeg.jpg,Septoria leaf spot,2,786,test,-1,1ea7645d22d1260309592c54b282856e,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/BCH%20medium%20thumbnail%20for%20upload%20%2861%29.jpg,Septoria leaf spot,2,771,trainval,1,7c3a3edc85edfcbc4af994b6ae82ee89,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/bd0b83af4c5e4b739ccc6c36fa66f141.jpg,Septoria leaf spot,2,772,trainval,0,f88d519340ff4d91c87112975de85ef4,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Bean-rust-on-leaves.jpg,Septoria leaf spot,2,663,trainval,2,f441d6f996650b57ee9f54d95a4f9d51,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/bed-4-tomatoes-23jun13.jpg,Septoria leaf spot,2,664,trainval,1,d740d81b1b177fb1f3bc54bb1e03f0ea,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/bigseptoria01.jpg,Septoria leaf spot,2,665,trainval,1,7022eb1a0f47ff6701f8de4029e6077b,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/blog_early_blight_628.jpg,Septoria leaf spot,2,808,trainval,2,f71e367a174d9f848949c1546c11d0f2,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/bnX8Q.jpg,Septoria leaf spot,2,773,trainval,2,c6119efc586544419b3422fd667adb77,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/caf212ccf4696675469a0beaa9e57213.jpg,Septoria leaf spot,2,774,trainval,0,3e49f171f970440e7d9fee0cde7406be,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/classic-septoria.jpg,Septoria leaf spot,2,775,trainval,4,df93f720f55c93caf7dfe388e8b85e49,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/closeup-of-tomato-leaf-y4af51-1024x768.jpg,Septoria leaf spot,2,670,test,-1,265c7d60df03b2afd93f41022c89ebc9,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/confused-early-blight-septoria-zoom.jpg,Septoria leaf spot,2,753,trainval,3,4beeea7fcdc2b9aa4a3248ea179019ac,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/ealryblight.jpg,Septoria leaf spot,2,684,test,-1,f77e54c2525119d7c950131273970de3,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/early+blight+on+leaf+yel+halo+IMG_2313.JPG.jpg,Septoria leaf spot,2,776,trainval,4,9b76d6faba3689531972394049afec05,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Early-blight-300x225.jpg,Septoria leaf spot,2,674,trainval,4,8395d8937125240db4c93961dc37ab07,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/early-blight-closeup-sm.jpg,Septoria leaf spot,2,675,trainval,0,2ae9679b51ad13d1c383c33db9085269,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/early-blight-of-tomato-tomato-1.jpg,Septoria leaf spot,2,676,trainval,4,24150aa99cc0d84647680ad990d0bbae,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/early-blight-septoria-ls-fig-3.jpg,Septoria leaf spot,2,777,trainval,1,3311a7162f523ef7dc4f5b02033d6ecf,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/early-blight-tomatoes-1200x746-1.jpg,Septoria leaf spot,2,678,trainval,0,29789dd9e12b81cf8bcdbf9fb8ffe3ae,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/early-tomato-blight.jpg,Septoria leaf spot,2,679,trainval,0,2ae4165c4a9c263c65e91c74d162704f,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/earlyblightresize.jpg,Septoria leaf spot,2,680,trainval,4,22cbc5406b1bd134c4463a469bc1fee9,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/eb56b488e349c2de423ab6afbcc4bd5b_jpg.rf.55285dbd0f68011aa303f772d65a0a4d.jpg,Septoria leaf spot,2,778,trainval,0,d2a908633c492d73304044306fd05a81,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(971).jpg,Septoria leaf spot,2,741,trainval,0,b82a0af16210697f06925663b9acd074,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(978).jpg,Septoria leaf spot,2,819,trainval,0,03c6180ad14e4c1107471567aa0d7c8e,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/EB_(985).jpg,Septoria leaf spot,2,802,trainval,4,af17d66a9b311f359a7a1d79ba2b9731,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/file96924.jpg,Septoria leaf spot,2,806,trainval,1,955ce53abe4f9efe930886a8040e0a77,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/FS547-4-big.jpg,Septoria leaf spot,2,829,trainval,0,1f6b09f3158c67fa6d0f8647389de204,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls1.jpg,Septoria leaf spot,2,699,trainval,4,2525da893ec01db0370f6e00a325f1e9,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls11_mirror_vertical.jpg,Septoria leaf spot,2,693,trainval,2,18d3b52de833d737625e7e25d494d9fc,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls29.jpg,Septoria leaf spot,2,694,trainval,3,1f6a65eeb497f1ac894e7d1a810ab527,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls32_mirror_vertical.jpg,Septoria leaf spot,2,695,trainval,3,bd9e207d375d6d1f88034b31073c428b,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls36.jpg,Septoria leaf spot,2,696,test,-1,b79f145c988f4f133645cbad3a32aa11,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls37.jpg,Septoria leaf spot,2,698,test,-1,65d57fb8ba7e6162e2b5651cfcc02bd7,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls37_change_90.jpg,Septoria leaf spot,2,698,test,-1,b5f6a2c82896fb09c3427a6c5209625a,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls38.jpg,Septoria leaf spot,2,699,trainval,4,48b36c28b3eaef53e8bbd4caccf974d9,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls41.jpg,Septoria leaf spot,2,700,trainval,1,34ef3cfd5bc816e237272fadda4b7d74,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls46.jpg,Septoria leaf spot,2,701,trainval,0,329837e26313cd7b4bfaaa88af8b9e17,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls47.jpg,Septoria leaf spot,2,702,trainval,3,1d2b42407293ade5b4db7d2b0f99bd45,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls6.jpg,Septoria leaf spot,2,703,trainval,4,36011392b3e2141766e1becb67b3722f,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls7.jpg,Septoria leaf spot,2,704,test,-1,f8a8a5d7fcac3cc60d98a2407d2d4de4,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls81.JPG,Septoria leaf spot,2,705,trainval,2,bd9d50557e2d372e5ede961b38bc1dde,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Gls82.JPG,Septoria leaf spot,2,706,trainval,0,db918d633acb80c9bc5f7b0d2f487b56,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/gn201410308259997ar-jpg.jpg,Septoria leaf spot,2,707,trainval,3,963ebcdcae4db70ce980f321d7d1a30f,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/image (1).jpg,Septoria leaf spot,2,708,test,-1,c38a4de194bacb325b3921f0aa3b4943,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/images (1).jpg,Septoria leaf spot,2,709,trainval,0,062f531e72f37328f27a2d2f37c787af,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0141.jpg,Septoria leaf spot,2,712,trainval,3,06a6c8f8827e24f986139b974e864f6c,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0143.jpg,Septoria leaf spot,2,712,trainval,3,8de81324beae77474385d81d507fa5de,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0147.jpg,Septoria leaf spot,2,713,test,-1,97fffa985f00c2d634af7644a6426271,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0159.jpg,Septoria leaf spot,2,714,test,-1,df9d7e4e43791b81f3f35efb1b28729e,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0171.jpg,Septoria leaf spot,2,715,trainval,3,ccad6266c7a3aece29743bf43d7a8671,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0185.jpg,Septoria leaf spot,2,716,trainval,3,0cb912d16199755db995a20dfdce7011,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0203.jpg,Septoria leaf spot,2,717,trainval,3,5a29b3b96b194cd156dcb830cb88fa4f,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0205.jpg,Septoria leaf spot,2,718,trainval,4,0eb064e1f11291be648d4fe1407285bb,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0207.jpg,Septoria leaf spot,2,719,trainval,4,c08e8ac0959b040e45f6390487a5c0a5,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0211.jpg,Septoria leaf spot,2,720,trainval,4,c4c11f05deda554a590ccbbd0e95089d,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0213.jpg,Septoria leaf spot,2,722,trainval,4,209cb36d0dae540425898c027de669b3,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0215.jpg,Septoria leaf spot,2,722,trainval,4,9a5962feeb66dbfb8e02879bb29411b4,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0226.jpg,Septoria leaf spot,2,723,trainval,2,d1b4126598f654966acf1495d9c74658,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0247.jpg,Septoria leaf spot,2,724,trainval,2,9d016e5318cd7395d3a16da6fbf10530,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0257.jpg,Septoria leaf spot,2,725,trainval,1,7c387c0e0427d7b975dbbaaade167f71,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0259.jpg,Septoria leaf spot,2,726,trainval,1,689c1d465084719ec3afe58d0bf45781,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0263.jpg,Septoria leaf spot,2,727,test,-1,8ea32e2dd2544e4ae3252b2e00dff701,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0297.jpg,Septoria leaf spot,2,728,trainval,0,3456017119ae1bcce2c016b4d67ea559,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0323.jpg,Septoria leaf spot,2,729,trainval,2,9150b7f38dc379e7e8c79ff018b4ce12,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0363.jpg,Septoria leaf spot,2,730,trainval,4,57c0a73841a8ec037eaed99ed1f71de8,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0377.jpg,Septoria leaf spot,2,731,trainval,4,08a486c3685b85761ad312403abdbced,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG-20240812-WA0409.jpg,Septoria leaf spot,2,732,trainval,4,0e25a4677f4b9d83292fb928bc3e31f4,whatsapp
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG_0312_original.jpg,Septoria leaf spot,2,733,test,-1,7620695c08151c52a7ba48dbf5355022,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG_0634.jpeg,Septoria leaf spot,2,734,trainval,1,66eaee5f18eef6dea030480259d422ec,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG_0863_1500x1500%253E.jpg,Septoria leaf spot,2,735,test,-1,3ed681f7afa0f9bbbc097f2fc0cf124b,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG_3175.jpg,Septoria leaf spot,2,736,trainval,0,332f948ec422e2ad84f4c49a96bb30d2,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG_4452_1500x1500%253E.JPG_1407883119.jpg,Septoria leaf spot,2,737,trainval,1,d90e3fa037580cb55ab40d40dd4ab3b8,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/IMG_6433-300x225.jpg,Septoria leaf spot,2,738,trainval,4,d6ec6e4c8ede019a2365ba87b827c2ad,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Leaf%20spot.jpg,Septoria leaf spot,2,739,trainval,2,c1a5fc772cb34cee74d2eb0efb653e1d,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/leafspot-5aba8283642dca003687f6fa.jpg,Septoria leaf spot,2,740,test,-1,e7991b5456019b105f3bc901b89c1fbd,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Picture2.jpg,Septoria leaf spot,2,784,trainval,2,99c7bf50e5c183a33df5f4d1cdd322e7,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/potato-blight.jpg,Septoria leaf spot,2,743,trainval,2,4d05744d54bfeaafb67451e3e6f0ad75,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Sept9-300x225.jpg,Septoria leaf spot,2,829,trainval,0,98f239a387ca5596eadb27016462c6a9,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria+leaf+spota.jpg,Septoria leaf spot,2,745,test,-1,5102ffb991e24ae62df3f84409960b37,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Septoria-461x346.jpg,Septoria leaf spot,2,746,trainval,2,32fc118df96597864c2af2593e90963a,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Septoria-Leaf-Spot (1).jpg,Septoria leaf spot,2,747,trainval,1,8727f8bbb145d11eb36dab6aa5d02494,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria-leaf-spot-on-tomato-1.jpg,Septoria leaf spot,2,748,trainval,3,75a09c275db8b56d5ff489e6a238f9a5,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Septoria-leaf-spot-on-tomato-FOR-WEB.jpg,Septoria leaf spot,2,749,trainval,2,53a672e441da56e8f23c3462f853a6ef,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria-leaf-spot-tomato-1.jpg,Septoria leaf spot,2,750,trainval,1,77a00cca9d4b5b6446c117b1d6157389,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria-leaf-spot-treatment-leaf-spot-septoria-leaf-spot-soil-treatment-septoria-leaf-spot-tomato-organic-treatment.jpg,Septoria leaf spot,2,751,test,-1,127187db55c6c6598e836c6efc9c42b7,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Septoria-Leaf-Spot.jpg,Septoria leaf spot,2,752,trainval,1,f118a3f623186fc1e06df3dd4622e702,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria-leafspot-on-tomato-leaf-rp-c.jpg,Septoria leaf spot,2,753,trainval,3,8176cf896add2c5169551782ac9e8c76,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria3.jpg,Septoria leaf spot,2,754,trainval,3,9dc3746cf8d6721d32908d352f8e9f07,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria5.jpg,Septoria leaf spot,2,755,test,-1,41998db05ec092e0f125d010b9b01742,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septorialeafspot.jpg,Septoria leaf spot,2,756,trainval,4,9d21681872d34a5e3bf75e563a28d655,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SeptoriaLeaf_T3.jpg,Septoria leaf spot,2,757,test,-1,ce930e963ddc32a7d39cd77ca988f938,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria_leaf_spot_of_tomato-1500x750.jpg,Septoria leaf spot,2,758,trainval,4,b23f69281a4edc29cfff36716aa52faf,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Septoria_Leaf_Spot_of_Tomato186.jpg,Septoria leaf spot,2,786,test,-1,a4c244a20e9e5d965a970e0a533a38c6,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Septoria_Leaf_Spot_of_Tomato2241-450x300.jpg,Septoria leaf spot,2,785,trainval,1,e2eef39e77dbf6a635c45a643212f2b5,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria_tomato.jpg,Septoria leaf spot,2,761,trainval,4,a99e9d4d65cb0d7852d20e72f628a2ff,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Septoria_tomato_Margaret%20B_p8170755_0002_25004.jpg,Septoria leaf spot,2,762,trainval,2,1b05b1c8eba89397267536d5f6d41d58,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/septoria_tom_leaves1x1200.jpg,Septoria leaf spot,2,763,trainval,1,2c2931b84389b7b9de0a120404eca586,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/sls1.jpg,Septoria leaf spot,2,780,trainval,3,e19cec566889c8eb00d7270630d4d43a,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (30).jpg,Septoria leaf spot,2,765,trainval,0,83dcea4ad5df89493a7f43a88d2a8517,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (31).jpg,Septoria leaf spot,2,766,trainval,1,6fac73cb575dda66dedf6c24657c8fab,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (34).jpg,Septoria leaf spot,2,767,test,-1,115720011255d6600a3d95e0b430bb9b,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (36).jpg,Septoria leaf spot,2,768,test,-1,ca9f58ff1cf144858fd6e5ecd50a5d30,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (9).jpg,Septoria leaf spot,2,779,test,-1,98689a4b7e7d9833bda5786ce45ca2be,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (963).jpg,Septoria leaf spot,2,781,trainval,1,9a39abaf28082e0331012667dafffa54,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (968).jpg,Septoria leaf spot,2,820,trainval,3,5c8d55c6a9c78afc838cc56c60bd49cb,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (969).jpg,Septoria leaf spot,2,783,trainval,3,832768af79054d7d785585958a373dea,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (970)1.jpg,Septoria leaf spot,2,784,trainval,2,4f05270cff61f92e2ebecd3a937425f2,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (974).jpg,Septoria leaf spot,2,785,trainval,1,9ac739f51fa86b8b13766734f2461279,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (974)1.jpg,Septoria leaf spot,2,786,test,-1,ec724f2b4ff7f4fa36a181893dd74ff0,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (975)1.jpg,Septoria leaf spot,2,787,trainval,0,2e20f7883f469d56639e715fa6cfbde5,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (976).jpg,Septoria leaf spot,2,788,trainval,3,f7f1f0f716de78d31b2a5bd53a3cc2b6,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (977)1.jpg,Septoria leaf spot,2,789,trainval,0,f8fa097b496127c33d4df7d76413e343,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (977)3.jpg,Septoria leaf spot,2,790,trainval,1,72321c814b5f33ca0b785c5013e704b0,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (981).jpg,Septoria leaf spot,2,791,test,-1,ce98a3210e2293da7503649d18a6c569,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (986).jpg,Septoria leaf spot,2,808,trainval,2,c4666f7940e8db54f3958830f3846c0a,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (987).jpg,Septoria leaf spot,2,793,trainval,1,6cd79c2857bb36f462439ea5c6277eeb,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (990).jpg,Septoria leaf spot,2,794,trainval,2,489ac75c30d8c76fb7c01dd4cd6e4674,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (993).jpg,Septoria leaf spot,2,795,trainval,0,c51b5e14158590f9ce530858cff7c7e1,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (994).jpg,Septoria leaf spot,2,814,trainval,2,d24e56a397c7b7fb6d743767ba173f3a,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (995).jpg,Septoria leaf spot,2,818,trainval,0,963e30cf32e79ac3b0e84bb0bad86e51,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/SS_ (998).jpg,Septoria leaf spot,2,829,trainval,0,1edd5562f5d85b8b143f2d89b1d5fac2,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato%20bacterial%20spot%20closeup-050S.JPG.jpg,Septoria leaf spot,2,799,test,-1,95bb8754364a716d841ee86a80c59a6f,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato+leaf+spot2.jpg,Septoria leaf spot,2,800,trainval,1,2f9c4bc2b8b9c470c8df385040eb5cf6,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-badleaves.jpg,Septoria leaf spot,2,801,test,-1,ec094106e0f16a9602348cef115b2c65,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-blight-treatment-blight.jpg,Septoria leaf spot,2,803,test,-1,6232b304f7df1238364edd352ff82616,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-early-blight-e1437503226856.jpg,Septoria leaf spot,2,804,trainval,2,7b0f707fb0ad231c84fbf2bd5619eaf5,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato-Early-Blight-e1513806873934.jpg,Septoria leaf spot,2,805,test,-1,afeb94cad087fdf6e16a6245f97311cf,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato-Early-Blight-Leaves-Cornell-University.jpg,Septoria leaf spot,2,806,trainval,1,566b963f7695a83ebb1c0989fed15725,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-plant-is-infected-with-septoria-leaf-spot.jpg,Septoria leaf spot,2,809,trainval,0,0cf6c78544de55dc83deeef62f44f376,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato-Plant-with-Septoria-Leaf-Spot.jpg,Septoria leaf spot,2,810,trainval,3,b7fd954834e270a3d8330c79a35e749e,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-septoria-3.jpg,Septoria leaf spot,2,811,trainval,3,4031d812d77e8dbbf7d49d37bcabec93,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-septoria-5.jpg,Septoria leaf spot,2,812,trainval,3,2a77257ef365a868f121f5c688f687a6,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-septoria-leaf-spot-.jpg,Septoria leaf spot,2,813,trainval,3,394ddb0381f5fcf992b6fa4d811299aa,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato-septoria-leaf-spot.jpg,Septoria leaf spot,2,815,trainval,1,0c0c8f4e2c5a2fcf5cb27bc7815e5b55,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/TomatoDisease_IMG_2744_2016Jul01_original.JPG_1472858324.jpg,Septoria leaf spot,2,816,test,-1,32c6c51dfd999111f1a5c9d8f86acadb,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomatoes_002_full_width.jpg,Septoria leaf spot,2,817,test,-1,41b67928712e8f68184f771a2191fde8,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato_leaves_300x300%2523.jpg,Septoria leaf spot,2,820,trainval,3,cd7a1d4990880ffa41ed58209ae98ac1,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato_plants_1_original.JPG_1407178095.jpg,Septoria leaf spot,2,821,trainval,2,cba979428feb1dd44fcae40a607f9a28,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato_q1hq-early-blight-5052_zoom.jpg,Septoria leaf spot,2,822,trainval,3,e41d721b1a95fdae688ea609798b5ca0,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/tomato_septoria_05_zoom.jpg,Septoria leaf spot,2,823,trainval,2,42dbc5d816c0adb56eaf177568eb6ca0,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tomato_Septoria_Leaf_Spot.jpg,Septoria leaf spot,2,824,trainval,1,7324fd1e058f5cfd990e68ada54faa57,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/Tom_Sept1.jpg,Septoria leaf spot,2,825,trainval,4,7f299905a9ec4eb60ab4d5001dd1f886,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/unnamed.jpg,Septoria leaf spot,2,826,trainval,4,4e9e8864c1f11471de7710b76f425c33,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/web1_copy_early-blight-6-_0.jpg,Septoria leaf spot,2,827,trainval,0,1c1f20434f0f2300df02eddae7d9e85e,web/other
+Dataset (raw)/Tomato_Septoria_leaf_spot/web1_copy_tomato-septoria-leaf-spot4.jpg,Septoria leaf spot,2,828,trainval,3,8e30313499f3941339e0ac50074d3582,web/other

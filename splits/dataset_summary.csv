@@ -1,0 +1,7 @@
+class,raw_images,aug_train,aug_val,aug_test,distinct_source_groups,conflict_imgs
+Early blight,119,840,240,120,429,94
+Late blight,113,840,240,120,353,27
+Septoria leaf spot,195,840,240,120,536,26
+Leaf mold,186,840,240,120,587,23
+Yellow leaf curl virus,80,840,240,120,330,0
+Healthy,137,840,240,120,343,0

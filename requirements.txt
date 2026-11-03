@@ -1,0 +1,12 @@
+numpy
+pandas
+pillow
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+torch
+torchvision
+timm
+# MambaVision-T additionally needs: mamba-ssm==2.3.2.post1 (CUDA) and transformers
