@@ -31,8 +31,8 @@ audited and re-split at the **source-group level**.
 | Re-train PVTv2-B2 / Swin-T, save weights, Grad-CAM | yes (T4) | `notebooks/03_final_weights_gradcam.ipynb` | yes |
 
 ```bash
-git clone https://github.com/okaynar/tomato-leaf
-cd tomato-leaf
+git clone https://github.com/okaynar/leakage-free-tomato-benchmark
+cd leakage-free-tomato-benchmark
 pip install -r requirements.txt
 
 # 1) figures from the shipped results (run from the repository root; output → figures/)
@@ -49,8 +49,8 @@ jupyter lab notebooks/
 ```
 
 **Google Colab:** upload the unzipped `Tomato Dataset` folder to `MyDrive/Tomato Dataset`, open the notebook in Colab, select a T4 GPU, and add a
-first cell `!git clone https://github.com/okaynar/tomato-leaf /content/tomato-leaf`. Cell *2) Paths* is the only cell with paths
-(`REPO_DIR`, `DATA_ROOT`, `OUT_DIR`); new results are written to `MyDrive/tomato-leaf-runs`, never into the repository's `results/`.
+first cell `!git clone https://github.com/okaynar/leakage-free-tomato-benchmark /content/leakage-free-tomato-benchmark`. Cell *2) Paths* is the only cell with paths
+(`REPO_DIR`, `DATA_ROOT`, `OUT_DIR`); new results are written to `MyDrive/leakage-free-tomato-benchmark-runs`, never into the repository's `results/`.
 Notebook 02 resumes after a disconnect by skipping finished (model, seed, fold) runs. The paper's full run took ≈ 16 h of training on a T4
 (13.8 h CV + 1.9 h final; `minutes` columns of `results/cv_runs.csv` and `results/final_test_runs.csv`). MambaVision-T needs the CUDA
 `mamba-ssm` 2.3.2.post1 wheel; cell 0 pins torch 2.10.0 on Colab for this.
@@ -62,7 +62,7 @@ Code comments inside the notebooks are in Turkish; each notebook starts with an 
 ## 2. Repository layout
 
 ```
-tomato-leaf/
+leakage-free-tomato-benchmark/
 ├── README.md
 ├── LICENSE                                # MIT (code); data-derived files stay CC BY 4.0
 ├── requirements.txt
